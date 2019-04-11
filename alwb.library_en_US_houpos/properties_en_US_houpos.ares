@@ -1,0 +1,18 @@
+A_Resource_Whose_Name = properties_en_US_houpos
+
+version.designation = "AH"
+version.translator = "Fr Andreas Houpos"
+
+version.notice1 = ""
+
+version.copyright1 = "Copyright © 2019 by Andreas Houpos"
+version.copyright2 = "Used by permission."
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = "fr.andreas.houpos@gmail.com"
+
+media.key = "For media only."

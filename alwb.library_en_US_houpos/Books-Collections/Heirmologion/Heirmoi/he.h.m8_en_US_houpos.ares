@@ -354,8 +354,8 @@ OrthrizeiToPnevmaMou.mode = misc_en_US_houpos.Mode8
 OrthrizeiToPnevmaMou.ode = misc_en_US_houpos.Ode5
 OrthrizeiToPnevmaMou.text = ""
 
-OrthrizontesVoomenSoi.notmetered = "N/M (To You we rise.)"
-OrthrizontesVoomenSoi.name = "To You we rise."
+OrthrizontesVoomenSoi.notmetered = "N/M (We rise at early morn.)"
+OrthrizontesVoomenSoi.name = "We rise at early morn."
 OrthrizontesVoomenSoi.mode = misc_en_US_houpos.Mode8
 OrthrizontesVoomenSoi.ode = misc_en_US_houpos.Ode5
 OrthrizontesVoomenSoi.text = ""

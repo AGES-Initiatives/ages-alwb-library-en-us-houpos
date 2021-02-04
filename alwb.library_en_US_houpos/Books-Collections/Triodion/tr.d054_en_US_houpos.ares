@@ -25,12 +25,12 @@ trVE.AposMartyric.text = //oc.m8.d5_en_US_houpos.ocVE.Aposticha3.text
 
 trVE.Stichera01.poet = ""
 trVE.Stichera01.mode = misc_en_US_houpos.Mode8
-trVE.Stichera01.melody = he.a.m8_en_US_houpos.KyrieEiKaiKritirio.name
+trVE.Stichera01.melody = he.a.m8_en_US_houpos.KyrieEiKaiKritirio.incipit
 trVE.Stichera01.incipit = ""
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = misc_en_US_houpos.Mode8
-trVE.Stichera02.melody = he.a.m8_en_US_houpos.KyrieEiKaiKritirio.name
+trVE.Stichera02.melody = he.a.m8_en_US_houpos.KyrieEiKaiKritirio.incipit
 trVE.Stichera02.incipit = ""
 trVE.Stichera02.text = ""
 
@@ -44,127 +44,127 @@ trGC.SticheraPoet = ""
 trGC.SticheraAcrostic.text = ""
 
 trGC.Stichera01.mode = misc_en_US_houpos.Mode4
-trGC.Stichera01.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera01.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera01.incipit = "All of my life has"
 trGC.Stichera01.text = "All of my life has been spent with harlots * and is wasted keeping company with the publicans. * But in old age will I find the power * to live in repentance for all my grievous sins? * So now I cry out, my Maker, * to you who heal those in sickness: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera02.mode = misc_en_US_houpos.Mode4
-trGC.Stichera02.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera02.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera02.incipit = "Being oppressed and gripped by"
 trGC.Stichera02.text = "Being oppressed and gripped by indifference, *  I allowed myself to wallow in every kind of filth. * And since the Devil’s arrows have pierced me, * God’s own image in me has therefore been defiled. * You who correct the indifferent, * and who redeem the defeated: * save me before I utterly perish, O Lord, my God! "
 
 trGC.Stichera03.mode = misc_en_US_houpos.Mode4
-trGC.Stichera03.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera03.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera03.incipit = "Clay is the substance you"
 trGC.Stichera03.text = "Clay is the substance you used to form me, * and clay I remain, becoming a stumbling block for men. * Lord, I was married to your commandments, * but I have transgressed them and have defiled my bed. * With clay you make and you fashion; * do not despise your creation. * Save me before I utterly perish, O Lord, my God!"
 
 trGC.Stichera04.mode = misc_en_US_houpos.Mode4
-trGC.Stichera04.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera04.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera04.incipit = "Death is the sentence I"
 trGC.Stichera04.text = "Death is the sentence I gave my own soul, * but I have provided everything that my flesh could want. * I was appointed to mock the demons, * but I am enslaved by absurdities and lust. * In your compassion, please, spare me, * you who drive off hordes of demons! * Save me before I utterly perish, O Lord, my God!"
 
 trGC.Stichera05.mode = misc_en_US_houpos.Mode4
-trGC.Stichera05.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera05.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera05.incipit = "Excess in sin beyond other"
 trGC.Stichera05.text = "Excess in sin beyond other people * by my own free choice has led me to be abandoned now. * I have become my soul’s worst opponent * and am in the dark, with my mind set on the flesh. * O light of those in the darkness, * and guide to those who have wandered: * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera06.mode = misc_en_US_houpos.Mode4
-trGC.Stichera06.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera06.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera06.incipit = "Famously, David the prophet said"
 trGC.Stichera06.text = "Famously, David the prophet said once, * \"Lord, my soul shall live\" and, furthermore, \"it shall praise you,\" too. * Come, search for me, for I am a lost sheep, * and let me be numbered among your chosen flock. * May I have time for repentance, * so that to you I might cry out: * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera07.mode = misc_en_US_houpos.Mode4
-trGC.Stichera07.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera07.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera07.incipit = "God, I have sinned, I"
 trGC.Stichera07.text = "God, I have sinned, I have sinned against you! * O my Christ, I disobeyed your commandments carelessly. * O Benefactor, show me your mercy, * so that I might gain vision with my inner eyes, * and thus depart from the darkness, * trembling in fear as I cry out: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera08.mode = misc_en_US_houpos.Mode4
-trGC.Stichera08.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera08.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera08.incipit = "Horrid, wild creatures have me"
 trGC.Stichera08.text = "Horrid, wild creatures have me surrounded; * Master come and snatch me out from the midst of their attack. * You wish salvation for all your people, * and for them to come to the knowledge of the truth; * Lord, as our common Creator, * I pray let me be saved with them. * Save me before I utterly perish, O Lord my God! "
 
 trGC.Stichera09.mode = misc_en_US_houpos.Mode4
-trGC.Stichera09.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera09.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera09.incipit = "In your great mercy, O"
 trGC.Stichera09.text = "In your great mercy, O Benefactor, * my Redeemer and my Savior, become my healing now. * Look at me, lying in my transgressions, * and, with your abundance of power, raise me up * so I can make a confession * of all my actions and cry out: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera10.mode = misc_en_US_houpos.Mode4
-trGC.Stichera10.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera10.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera10.incipit = "Just like that famously foolish"
 trGC.Stichera10.text = "Just like that famously foolish servant, * I have also gone and buried the talent given me. * And so I also am judged as worthless, * and no longer dare to approach you with my pleas. * But, pity me with your patience, * so that once more I can cry out: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera11.mode = misc_en_US_houpos.Mode4
-trGC.Stichera11.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera11.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera11.incipit = "Knowing the hem of your"
 trGC.Stichera11.text = "Knowing the hem of your garment dried up * that poor woman’s bloody issue when she touched it in faith, * I likewise know that if I approach you * with a faith unshaken, you will forgive my sins. * As you received her, receive me, * and bring relief to my anguish. * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera12.mode = misc_en_US_houpos.Mode4
-trGC.Stichera12.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera12.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera12.incipit = "Lord, you will soon take"
 trGC.Stichera12.text = "Lord, you will soon take the throne for judgment, * you who by your Word created the heavens and the earth, * and soon we all shall stand in your presence * and the time will come for us to announce our sins. * Before that Day is upon us, * accept me in my repentance. * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera13.mode = misc_en_US_houpos.Mode4
-trGC.Stichera13.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera13.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera13.incipit = "My only Savior, look with"
 trGC.Stichera13.text = "My only Savior, look with compassion * on your servant and be moved to be merciful to me. * Pour out the streams of your gracious healing * over my pathetic and wretched little soul. * Wipe off the filth of my actions * so that in song I might cry out: * \"Save me before I perish, O Lord my God!\""
 
 trGC.Stichera14.mode = misc_en_US_houpos.Mode4
-trGC.Stichera14.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera14.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera14.incipit = "Now that the devil’s sword"
 trGC.Stichera14.text = "Now that the devil’s sword has been sharpened, * he will waste no time to hunt down and trap my humble soul. * Merciful Lord, he made me a stranger * to the light of knowledge of your bright countenance. * You who are mighty in power, * save me from all his devices. * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera15.mode = misc_en_US_houpos.Mode4
-trGC.Stichera15.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera15.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera15.incipit = "Oh, how the passions have"
 trGC.Stichera15.text = "Oh, how the passions have all enslaved me! * I abandoned all the laws and the scriptures of my God. * O Benefactor, heal me completely; * Good One, it was you who became like me for me. * Now bring me back in your mercy, * for you destroy all the passions; * save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera16.mode = misc_en_US_houpos.Mode4
-trGC.Stichera16.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera16.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera16.incipit = "Pouring her tears out in"
 trGC.Stichera16.text = "Pouring her tears out in great abundance, * that famed harlot washed and dried off your pure and precious feet, * urging all people to come and draw near * so as to receive the forgiveness of their sins. * Grant me her faith, O my Savior, * so that with haste I might cry out: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera17.mode = misc_en_US_houpos.Mode4
-trGC.Stichera17.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera17.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera17.incipit = "Quickly attend to my soul"
 trGC.Stichera17.text = "Quickly attend to my soul and cleanse it, * you who for my sake became poor by being born of flesh. * And you send forth your showers of mercy * on those who are weakened and broken, O my Christ; * now wash away what is filthy, * and heal the one who is hurting. * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera18.mode = misc_en_US_houpos.Mode4
-trGC.Stichera18.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera18.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera18.incipit = "Ready and strengthen my soul,"
 trGC.Stichera18.text = "Ready and strengthen my soul, O Master, * so that it will always run to you, and serve you in faith. * You are my guardian and protection; * you are my defender and are my help as well. * Enable me to be worthy, * O God and Word, to cry boldly: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera19.mode = misc_en_US_houpos.Mode4
-trGC.Stichera19.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera19.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera19.incipit = "Savior, my Jesus, our God"
 trGC.Stichera19.text = "Savior, my Jesus, our God of mercy: * be for us a wall and rampart that never will be breached. * Facing deceitful methods and actions, * yes, we have succumbed, falling down, but raise us up, * for you will help your creation, * and reconcile with compassion. * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera20.mode = misc_en_US_houpos.Mode4
-trGC.Stichera20.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera20.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera20.incipit = "Taking the Prodigal’s path, I"
 trGC.Stichera20.text = "Taking the Prodigal’s path, I scattered * all my wealth, and now am wasting away from lack of food. * So I am fleeing to you for refuge * and for your protection; Good Father, take me in. * Grant me a place at your table, * so that made worthy I might say: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera21.mode = misc_en_US_houpos.Mode4
-trGC.Stichera21.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera21.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera21.incipit = "Using the trick of envy,"
 trGC.Stichera21.text = "Using the trick of envy, the devil * cast the first-made man from Paradise quite successfully, * but then that day on the cross, the Robber, * entered Paradise with his words: \"Remember me!\" * So, being fearful and faithful, * I cry \"Remember me!\" like him; * save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera22.mode = misc_en_US_houpos.Mode4
-trGC.Stichera22.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera22.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera22.incipit = "Venture your hand to grasp"
 trGC.Stichera22.text = "Venture your hand to grasp mine like Peter’s, * and to draw me up, O God, from the perils of the deep. * Grant me the gift of your grace and mercy, * at the intercessions of the all-spotless Maid * who without seed gave birth to you, * and of your saints from all ages. * Save me before I utterly perish, O Lord my God!"
 
 trGC.Stichera23.mode = misc_en_US_houpos.Mode4
-trGC.Stichera23.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera23.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera23.incipit = "With every day that comes"
 trGC.Stichera23.text = "With every day that comes I am chanting: * \"Lord, you are the Lamb of God, who takes all my sins away.\" * Into your hands I commit my being, * yes, my soul and body entirely are yours. * Throughout the night and the daytime, * as it is fitting, I cry out: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.Stichera24.mode = misc_en_US_houpos.Mode4
-trGC.Stichera24.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.Stichera24.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.Stichera24.incipit = "Excellent, past all means of"
 trGC.Stichera24.text = "Excellent, past all means of expression, * is your great compassion, Lord, who have patience and to spare. * O you who have no sin, but great mercy, * I plead: do not cast me out from before your face, * so that with joy and thanksgiving * I may break forth into chanting: * \"Save me before I utterly perish, O Lord my God!\""
 
 trGC.SticheraT.mode = misc_en_US_houpos.Mode4
-trGC.SticheraT.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.name
+trGC.SticheraT.melody = he.a.m4_en_US_houpos.IthelonDakrysinExaleipsai.incipit
 trGC.SticheraT.incipit = "You, God and Maker, have"
 trGC.SticheraT.text = "You, God and Maker, have condescended * to become incarnate through novel childbirth. * How did a Virgin conceive and bear You? * This is so amazing. Oh, how ineffable * is Your sublime condescension, * O our divine Benefactor! * Save me before I utterly perish, O Lord my God!"
 
@@ -186,139 +186,139 @@ trGC.Ode1C1H.text = he.h.m6_en_US_houpos.VoithosKaiSkepastis.text
 
 trGC.Ode1C101.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C101.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C101.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C101.incipit = ""
 trGC.Ode1C101.text = ""
 
 trGC.Ode1C102.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C102.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C102.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C102.incipit = ""
 trGC.Ode1C102.text = ""
 
 trGC.Ode1C103.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C103.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C103.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C103.incipit = ""
 trGC.Ode1C103.text = ""
 
 trGC.Ode1C104.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C104.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C104.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C104.incipit = ""
 trGC.Ode1C104.text = ""
 
 trGC.Ode1C105.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C105.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C105.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C105.incipit = ""
 trGC.Ode1C105.text = ""
 
 trGC.Ode1C106.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C106.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C106.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C106.incipit = ""
 trGC.Ode1C106.text = ""
 
 trGC.Ode1C107.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C107.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C107.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C107.incipit = ""
 trGC.Ode1C107.text = ""
 
 trGC.Ode1C108.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C108.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C108.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C108.incipit = ""
 trGC.Ode1C108.text = ""
 
 trGC.Ode1C109.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C109.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C109.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C109.incipit = ""
 trGC.Ode1C109.text = ""
 
 trGC.Ode1C110.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C110.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C110.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C110.incipit = ""
 trGC.Ode1C110.text = ""
 
 trGC.Ode1C111.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C111.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C111.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C111.incipit = ""
 trGC.Ode1C111.text = ""
 
 trGC.Ode1C112.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C112.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C112.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C112.incipit = ""
 trGC.Ode1C112.text = ""
 
 trGC.Ode1C113.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C113.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C113.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C113.incipit = ""
 trGC.Ode1C113.text = ""
 
 trGC.Ode1C114.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C114.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C114.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C114.incipit = ""
 trGC.Ode1C114.text = ""
 
 trGC.Ode1C115.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C115.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C115.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C115.incipit = ""
 trGC.Ode1C115.text = ""
 
 trGC.Ode1C116.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C116.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C116.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C116.incipit = ""
 trGC.Ode1C116.text = ""
 
 trGC.Ode1C117.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C117.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C117.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C117.incipit = ""
 trGC.Ode1C117.text = ""
 
 trGC.Ode1C118.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C118.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C118.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C118.incipit = ""
 trGC.Ode1C118.text = ""
 
 trGC.Ode1C119.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C119.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C119.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C119.incipit = ""
 trGC.Ode1C119.text = ""
 
 trGC.Ode1C120.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C120.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C120.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C120.incipit = ""
 trGC.Ode1C120.text = ""
 
 trGC.Ode1C121.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C121.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C121.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C121.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C121.incipit = ""
 trGC.Ode1C121.text = ""
 
 trGC.Ode1C122.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C122.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C122.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C122.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C122.incipit = ""
 trGC.Ode1C122.text = ""
 
 trGC.Ode1C123.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C123.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C123.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C123.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C123.incipit = ""
 trGC.Ode1C123.text = ""
 
@@ -326,31 +326,31 @@ trGC.C2Acrostic.text = ""
 
 trGC.Ode1C201.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C201.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C201.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C201.incipit = ""
 trGC.Ode1C201.text = ""
 
 trGC.Ode1C202.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C202.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C202.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C202.incipit = ""
 trGC.Ode1C202.text = ""
 
 trGC.Ode1C203.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C203.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C203.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C203.incipit = ""
 trGC.Ode1C203.text = ""
 
 trGC.Ode1C2Tr.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C2Tr.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C2Tr.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C2Tr.incipit = ""
 trGC.Ode1C2Tr.text = ""
 
 trGC.Ode1C2T.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode1C2T.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
+trGC.Ode1C2T.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.incipit
 trGC.Ode1C2T.incipit = ""
 trGC.Ode1C2T.text = ""
 
@@ -363,181 +363,181 @@ trGC.Ode2C1H.text = he.h.m6_en_US_houpos.ProsecheOurane.text
 
 trGC.Ode2C101.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C101.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C101.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C101.incipit = ""
 trGC.Ode2C101.text = ""
 
 trGC.Ode2C102.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C102.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C102.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C102.incipit = ""
 trGC.Ode2C102.text = ""
 
 trGC.Ode2C103.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C103.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C103.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C103.incipit = ""
 trGC.Ode2C103.text = ""
 
 trGC.Ode2C104.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C104.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C104.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C104.incipit = ""
 trGC.Ode2C104.text = ""
 
 trGC.Ode2C105.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C105.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C105.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C105.incipit = ""
 trGC.Ode2C105.text = ""
 
 trGC.Ode2C106.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C106.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C106.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C106.incipit = ""
 trGC.Ode2C106.text = ""
 
 trGC.Ode2C107.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C107.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C107.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C107.incipit = ""
 trGC.Ode2C107.text = ""
 
 trGC.Ode2C108.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C108.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C108.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C108.incipit = ""
 trGC.Ode2C108.text = ""
 
 trGC.Ode2C109.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C109.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C109.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C109.incipit = ""
 trGC.Ode2C109.text = ""
 
 trGC.Ode2C110.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C110.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C110.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C110.incipit = ""
 trGC.Ode2C110.text = ""
 
 trGC.Ode2C111.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C111.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C111.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C111.incipit = ""
 trGC.Ode2C111.text = ""
 
 trGC.Ode2C112.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C112.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C112.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C112.incipit = ""
 trGC.Ode2C112.text = ""
 
 trGC.Ode2C113.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C113.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C113.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C113.incipit = ""
 trGC.Ode2C113.text = ""
 
 trGC.Ode2C114.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C114.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C114.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C114.incipit = ""
 trGC.Ode2C114.text = ""
 
 trGC.Ode2C115.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C115.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C115.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C115.incipit = ""
 trGC.Ode2C115.text = ""
 
 trGC.Ode2C116.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C116.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C116.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C116.incipit = ""
 trGC.Ode2C116.text = ""
 
 trGC.Ode2C117.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C117.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C117.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C117.incipit = ""
 trGC.Ode2C117.text = ""
 
 trGC.Ode2C118.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C118.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C118.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C118.incipit = ""
 trGC.Ode2C118.text = ""
 
 trGC.Ode2C119.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C119.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C119.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C119.incipit = ""
 trGC.Ode2C119.text = ""
 
 trGC.Ode2C120.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C120.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C120.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C120.incipit = ""
 trGC.Ode2C120.text = ""
 
 trGC.Ode2C121.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C121.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C121.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C121.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C121.incipit = ""
 trGC.Ode2C121.text = ""
 
 trGC.Ode2C122.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C122.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C122.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C122.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C122.incipit = ""
 trGC.Ode2C122.text = ""
 
 trGC.Ode2C123.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C123.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C123.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C123.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C123.incipit = ""
 trGC.Ode2C123.text = ""
 
 trGC.Ode2C124.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C124.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C124.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C124.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C124.incipit = ""
 trGC.Ode2C124.text = ""
 
 trGC.Ode2C125.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C125.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C125.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C125.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C125.incipit = ""
 trGC.Ode2C125.text = ""
 
 trGC.Ode2C126.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C126.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C126.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C126.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C126.incipit = ""
 trGC.Ode2C126.text = ""
 
 trGC.Ode2C127.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C127.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C127.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C127.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C127.incipit = ""
 trGC.Ode2C127.text = ""
 
 trGC.Ode2C128.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C128.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C128.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C128.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C128.incipit = ""
 trGC.Ode2C128.text = ""
 
 trGC.Ode2C1Tr.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C1Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C1Tr.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C1Tr.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C1Tr.incipit = ""
 trGC.Ode2C1Tr.text = ""
 
 trGC.Ode2C1T.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C1T.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C1T.melody = he.h.m6_en_US_houpos.ProsecheOurane.name
+trGC.Ode2C1T.melody = he.h.m6_en_US_houpos.ProsecheOurane.incipit
 trGC.Ode2C1T.incipit = ""
 trGC.Ode2C1T.text = ""
 
@@ -549,91 +549,91 @@ trGC.Ode2C2H.text = he.h.m6_en_US_houpos.IdeteIdete.text
 
 trGC.Ode2C201.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C201.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C201.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C201.incipit = ""
 trGC.Ode2C201.text = ""
 
 trGC.Ode2C202.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C202.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C202.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C202.incipit = ""
 trGC.Ode2C202.text = ""
 
 trGC.Ode2C203.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C203.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C203.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C203.incipit = ""
 trGC.Ode2C203.text = ""
 
 trGC.Ode2C204.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C204.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C204.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C204.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C204.incipit = ""
 trGC.Ode2C204.text = ""
 
 trGC.Ode2C205.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C205.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C205.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C205.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C205.incipit = ""
 trGC.Ode2C205.text = ""
 
 trGC.Ode2C206.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C206.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C206.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C206.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C206.incipit = ""
 trGC.Ode2C206.text = ""
 
 trGC.Ode2C207.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C207.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C207.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C207.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C207.incipit = ""
 trGC.Ode2C207.text = ""
 
 trGC.Ode2C208.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C208.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C208.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C208.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C208.incipit = ""
 trGC.Ode2C208.text = ""
 
 trGC.Ode2C209.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C209.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C209.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C209.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C209.incipit = ""
 trGC.Ode2C209.text = ""
 
 trGC.Ode2C210.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C210.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C210.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C210.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C210.incipit = ""
 trGC.Ode2C210.text = ""
 
 trGC.Ode2C211.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C211.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C211.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C211.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C211.incipit = ""
 trGC.Ode2C211.text = ""
 
 trGC.Ode2C212.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C212.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C212.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C212.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C212.incipit = ""
 trGC.Ode2C212.text = ""
 
 trGC.Ode2C213.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C213.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C213.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C213.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C213.incipit = ""
 trGC.Ode2C213.text = ""
 
 trGC.Ode2C2Tr.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C2Tr.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C2Tr.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C2Tr.incipit = ""
 trGC.Ode2C2Tr.text = ""
 
 trGC.Ode2C2T.ode = misc_en_US_houpos.Ode2
 trGC.Ode2C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode2C2T.melody = he.h.m6_en_US_houpos.IdeteIdete.name
+trGC.Ode2C2T.melody = he.h.m6_en_US_houpos.IdeteIdete.incipit
 trGC.Ode2C2T.incipit = ""
 trGC.Ode2C2T.text = ""
 
@@ -647,55 +647,55 @@ trGC.Ode3C1H.text = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.text
 
 trGC.Ode3C101.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C101.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C101.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C101.incipit = ""
 trGC.Ode3C101.text = ""
 
 trGC.Ode3C102.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C102.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C102.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C102.incipit = ""
 trGC.Ode3C102.text = ""
 
 trGC.Ode3C103.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C103.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C103.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C103.incipit = ""
 trGC.Ode3C103.text = ""
 
 trGC.Ode3C104.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C104.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C104.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C104.incipit = ""
 trGC.Ode3C104.text = ""
 
 trGC.Ode3C105.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C105.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C105.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C105.incipit = ""
 trGC.Ode3C105.text = ""
 
 trGC.Ode3C106.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C106.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C106.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C106.incipit = ""
 trGC.Ode3C106.text = ""
 
 trGC.Ode3C107.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C107.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C107.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C107.incipit = ""
 trGC.Ode3C107.text = ""
 
 trGC.Ode3C1Tr.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C1Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C1Tr.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C1Tr.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C1Tr.incipit = ""
 trGC.Ode3C1Tr.text = ""
 
 trGC.Ode3C1T.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C1T.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C1T.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.name
+trGC.Ode3C1T.melody = he.h.m6_en_US_houpos.EpiTinAsaleftonChriste.incipit
 trGC.Ode3C1T.incipit = ""
 trGC.Ode3C1T.text = ""
 
@@ -707,139 +707,139 @@ trGC.Ode3C2H.text = he.h.m6_en_US_houpos.StereosonKyrie.text
 
 trGC.Ode3C201.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C201.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C201.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C201.incipit = ""
 trGC.Ode3C201.text = ""
 
 trGC.Ode3C202.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C202.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C202.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C202.incipit = ""
 trGC.Ode3C202.text = ""
 
 trGC.Ode3C203.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C203.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C203.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C203.incipit = ""
 trGC.Ode3C203.text = ""
 
 trGC.Ode3C204.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C204.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C204.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C204.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C204.incipit = ""
 trGC.Ode3C204.text = ""
 
 trGC.Ode3C205.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C205.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C205.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C205.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C205.incipit = ""
 trGC.Ode3C205.text = ""
 
 trGC.Ode3C206.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C206.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C206.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C206.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C206.incipit = ""
 trGC.Ode3C206.text = ""
 
 trGC.Ode3C207.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C207.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C207.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C207.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C207.incipit = ""
 trGC.Ode3C207.text = ""
 
 trGC.Ode3C208.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C208.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C208.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C208.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C208.incipit = ""
 trGC.Ode3C208.text = ""
 
 trGC.Ode3C209.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C209.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C209.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C209.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C209.incipit = ""
 trGC.Ode3C209.text = ""
 
 trGC.Ode3C210.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C210.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C210.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C210.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C210.incipit = ""
 trGC.Ode3C210.text = ""
 
 trGC.Ode3C211.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C211.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C211.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C211.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C211.incipit = ""
 trGC.Ode3C211.text = ""
 
 trGC.Ode3C212.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C212.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C212.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C212.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C212.incipit = ""
 trGC.Ode3C212.text = ""
 
 trGC.Ode3C213.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C213.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C213.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C213.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C213.incipit = ""
 trGC.Ode3C213.text = ""
 
 trGC.Ode3C214.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C214.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C214.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C214.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C214.incipit = ""
 trGC.Ode3C214.text = ""
 
 trGC.Ode3C215.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C215.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C215.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C215.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C215.incipit = ""
 trGC.Ode3C215.text = ""
 
 trGC.Ode3C216.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C216.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C216.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C216.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C216.incipit = ""
 trGC.Ode3C216.text = ""
 
 trGC.Ode3C217.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C217.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C217.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C217.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C217.incipit = ""
 trGC.Ode3C217.text = ""
 
 trGC.Ode3C218.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C218.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C218.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C218.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C218.incipit = ""
 trGC.Ode3C218.text = ""
 
 trGC.Ode3C219.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C219.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C219.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C219.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C219.incipit = ""
 trGC.Ode3C219.text = ""
 
 trGC.Ode3C220.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C220.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C220.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C220.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C220.incipit = ""
 trGC.Ode3C220.text = ""
 
 trGC.Ode3C221.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C221.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C221.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C221.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C221.incipit = ""
 trGC.Ode3C221.text = ""
 
 trGC.Ode3C2Tr.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C2Tr.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C2Tr.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C2Tr.incipit = ""
 trGC.Ode3C2Tr.text = ""
 
 trGC.Ode3C2T.ode = misc_en_US_houpos.Ode3
 trGC.Ode3C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode3C2T.melody = he.h.m6_en_US_houpos.StereosonKyrie.name
+trGC.Ode3C2T.melody = he.h.m6_en_US_houpos.StereosonKyrie.incipit
 trGC.Ode3C2T.incipit = ""
 trGC.Ode3C2T.text = ""
 
@@ -847,18 +847,18 @@ trGC.Ode3C2T.text = ""
 
 trMA.Ode3Kathisma1.poet = //poets_en_US_houpos.Iosif
 trMA.Ode3Kathisma1.mode = misc_en_US_houpos.Mode8
-trMA.Ode3Kathisma1.melody = he.a.m8_en_US_houpos.AnestisEkNekron.name
+trMA.Ode3Kathisma1.melody = he.a.m8_en_US_houpos.AnestisEkNekron.incipit
 trMA.Ode3Kathisma1.incipit = ""
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.poet = //poets_en_US_houpos.Theodorou
 trMA.Ode3Kathisma2.mode = misc_en_US_houpos.Mode8
-trMA.Ode3Kathisma2.melody = he.a.m8_en_US_houpos.ToProstachthen.name
+trMA.Ode3Kathisma2.melody = he.a.m8_en_US_houpos.ToProstachthen.incipit
 trMA.Ode3Kathisma2.incipit = ""
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = misc_en_US_houpos.Mode8
-trMA.Ode3Kathisma3.melody = he.a.m8_en_US_houpos.ToProstachthen.name
+trMA.Ode3Kathisma3.melody = he.a.m8_en_US_houpos.ToProstachthen.incipit
 trMA.Ode3Kathisma3.incipit = ""
 trMA.Ode3Kathisma3.text = ""
 
@@ -874,25 +874,25 @@ trMA.Ode4C1H.text = he.h.m8_en_US_houpos.EisakikoaKyrie.text
 
 trMA.Ode4C11.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C11.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C11.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
+trMA.Ode4C11.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.incipit
 trMA.Ode4C11.incipit = ""
 trMA.Ode4C11.text = ""
 
 trMA.Ode4C12.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C12.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C12.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
+trMA.Ode4C12.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.incipit
 trMA.Ode4C12.incipit = ""
 trMA.Ode4C12.text = ""
 
 trMA.Ode4C13.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C13.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C13.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
+trMA.Ode4C13.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.incipit
 trMA.Ode4C13.incipit = ""
 trMA.Ode4C13.text = ""
 
 trMA.Ode4C1T.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C1T.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C1T.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
+trMA.Ode4C1T.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.incipit
 trMA.Ode4C1T.incipit = ""
 trMA.Ode4C1T.text = ""
 
@@ -906,31 +906,31 @@ trMA.Ode4C2H.text = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.text
 
 trMA.Ode4C21.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C21.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C21.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.name
+trMA.Ode4C21.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C21.incipit = ""
 trMA.Ode4C21.text = ""
 
 trMA.Ode4C22.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C22.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C22.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.name
+trMA.Ode4C22.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C22.incipit = ""
 trMA.Ode4C22.text = ""
 
 trMA.Ode4C23.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C23.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C23.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.name
+trMA.Ode4C23.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C23.incipit = ""
 trMA.Ode4C23.text = ""
 
 trMA.Ode4C2Tr.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C2Tr.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C2Tr.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.name
+trMA.Ode4C2Tr.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C2Tr.incipit = ""
 trMA.Ode4C2Tr.text = ""
 
 trMA.Ode4C2T.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C2T.mode = misc_en_US_houpos.Mode8
-trMA.Ode4C2T.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.name
+trMA.Ode4C2T.melody = he.h.m8_en_US_houpos.EisakikoaKyrieTinAkoinSou.incipit
 trMA.Ode4C2T.incipit = ""
 trMA.Ode4C2T.text = ""
 
@@ -944,193 +944,193 @@ trGC.Ode4C1H.text = he.h.m6_en_US_houpos.AkikoenOProfitis.text
 
 trGC.Ode4C101.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C101.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C101.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C101.incipit = ""
 trGC.Ode4C101.text = ""
 
 trGC.Ode4C102.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C102.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C102.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C102.incipit = ""
 trGC.Ode4C102.text = ""
 
 trGC.Ode4C103.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C103.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C103.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C103.incipit = ""
 trGC.Ode4C103.text = ""
 
 trGC.Ode4C104.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C104.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C104.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C104.incipit = ""
 trGC.Ode4C104.text = ""
 
 trGC.Ode4C105.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C105.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C105.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C105.incipit = ""
 trGC.Ode4C105.text = ""
 
 trGC.Ode4C106.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C106.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C106.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C106.incipit = ""
 trGC.Ode4C106.text = ""
 
 trGC.Ode4C107.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C107.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C107.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C107.incipit = ""
 trGC.Ode4C107.text = ""
 
 trGC.Ode4C108.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C108.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C108.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C108.incipit = ""
 trGC.Ode4C108.text = ""
 
 trGC.Ode4C109.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C109.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C109.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C109.incipit = ""
 trGC.Ode4C109.text = ""
 
 trGC.Ode4C110.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C110.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C110.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C110.incipit = ""
 trGC.Ode4C110.text = ""
 
 trGC.Ode4C111.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C111.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C111.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C111.incipit = ""
 trGC.Ode4C111.text = ""
 
 trGC.Ode4C112.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C112.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C112.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C112.incipit = ""
 trGC.Ode4C112.text = ""
 
 trGC.Ode4C113.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C113.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C113.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C113.incipit = ""
 trGC.Ode4C113.text = ""
 
 trGC.Ode4C114.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C114.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C114.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C114.incipit = ""
 trGC.Ode4C114.text = ""
 
 trGC.Ode4C115.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C115.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C115.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C115.incipit = ""
 trGC.Ode4C115.text = ""
 
 trGC.Ode4C116.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C116.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C116.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C116.incipit = ""
 trGC.Ode4C116.text = ""
 
 trGC.Ode4C117.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C117.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C117.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C117.incipit = ""
 trGC.Ode4C117.text = ""
 
 trGC.Ode4C118.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C118.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C118.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C118.incipit = ""
 trGC.Ode4C118.text = ""
 
 trGC.Ode4C119.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C119.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C119.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C119.incipit = ""
 trGC.Ode4C119.text = ""
 
 trGC.Ode4C120.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C120.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C120.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C120.incipit = ""
 trGC.Ode4C120.text = ""
 
 trGC.Ode4C121.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C121.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C121.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C121.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C121.incipit = ""
 trGC.Ode4C121.text = ""
 
 trGC.Ode4C122.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C122.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C122.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C122.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C122.incipit = ""
 trGC.Ode4C122.text = ""
 
 trGC.Ode4C123.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C123.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C123.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C123.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C123.incipit = ""
 trGC.Ode4C123.text = ""
 
 trGC.Ode4C124.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C124.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C124.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C124.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C124.incipit = ""
 trGC.Ode4C124.text = ""
 
 trGC.Ode4C125.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C125.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C125.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C125.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C125.incipit = ""
 trGC.Ode4C125.text = ""
 
 trGC.Ode4C126.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C126.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C126.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C126.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C126.incipit = ""
 trGC.Ode4C126.text = ""
 
 trGC.Ode4C127.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C127.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C127.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C127.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C127.incipit = ""
 trGC.Ode4C127.text = ""
 
 trGC.Ode4C201.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C201.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C201.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C201.incipit = ""
 trGC.Ode4C201.text = ""
 
 trGC.Ode4C202.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C202.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C202.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C202.incipit = ""
 trGC.Ode4C202.text = ""
 
 trGC.Ode4C203.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C203.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C203.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C203.incipit = ""
 trGC.Ode4C203.text = ""
 
 trGC.Ode4C2Tr.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C2Tr.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C2Tr.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C2Tr.incipit = ""
 trGC.Ode4C2Tr.text = ""
 
 trGC.Ode4C2T.ode = misc_en_US_houpos.Ode4
 trGC.Ode4C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode4C2T.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.name
+trGC.Ode4C2T.melody = he.h.m6_en_US_houpos.AkikoenOProfitis.incipit
 trGC.Ode4C2T.incipit = ""
 trGC.Ode4C2T.text = ""
 
@@ -1144,157 +1144,157 @@ trGC.Ode5C1H.text = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.text
 
 trGC.Ode5C101.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C101.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C101.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C101.incipit = ""
 trGC.Ode5C101.text = ""
 
 trGC.Ode5C102.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C102.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C102.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C102.incipit = ""
 trGC.Ode5C102.text = ""
 
 trGC.Ode5C103.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C103.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C103.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C103.incipit = ""
 trGC.Ode5C103.text = ""
 
 trGC.Ode5C104.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C104.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C104.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C104.incipit = ""
 trGC.Ode5C104.text = ""
 
 trGC.Ode5C105.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C105.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C105.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C105.incipit = ""
 trGC.Ode5C105.text = ""
 
 trGC.Ode5C106.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C106.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C106.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C106.incipit = ""
 trGC.Ode5C106.text = ""
 
 trGC.Ode5C107.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C107.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C107.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C107.incipit = ""
 trGC.Ode5C107.text = ""
 
 trGC.Ode5C108.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C108.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C108.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C108.incipit = ""
 trGC.Ode5C108.text = ""
 
 trGC.Ode5C109.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C109.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C109.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C109.incipit = ""
 trGC.Ode5C109.text = ""
 
 trGC.Ode5C110.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C110.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C110.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C110.incipit = ""
 trGC.Ode5C110.text = ""
 
 trGC.Ode5C111.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C111.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C111.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C111.incipit = ""
 trGC.Ode5C111.text = ""
 
 trGC.Ode5C112.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C112.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C112.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C112.incipit = ""
 trGC.Ode5C112.text = ""
 
 trGC.Ode5C113.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C113.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C113.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C113.incipit = ""
 trGC.Ode5C113.text = ""
 
 trGC.Ode5C114.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C114.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C114.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C114.incipit = ""
 trGC.Ode5C114.text = ""
 
 trGC.Ode5C115.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C115.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C115.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C115.incipit = ""
 trGC.Ode5C115.text = ""
 
 trGC.Ode5C116.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C116.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C116.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C116.incipit = ""
 trGC.Ode5C116.text = ""
 
 trGC.Ode5C117.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C117.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C117.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C117.incipit = ""
 trGC.Ode5C117.text = ""
 
 trGC.Ode5C118.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C118.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C118.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C118.incipit = ""
 trGC.Ode5C118.text = ""
 
 trGC.Ode5C119.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C119.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C119.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C119.incipit = ""
 trGC.Ode5C119.text = ""
 
 trGC.Ode5C120.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C120.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C120.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C120.incipit = ""
 trGC.Ode5C120.text = ""
 
 trGC.Ode5C121.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C121.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C121.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C121.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C121.incipit = ""
 trGC.Ode5C121.text = ""
 
 trGC.Ode5C201.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C201.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C201.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C201.incipit = ""
 trGC.Ode5C201.text = ""
 
 trGC.Ode5C202.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C202.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C202.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C202.incipit = ""
 trGC.Ode5C202.text = ""
 
 trGC.Ode5C203.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C203.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C203.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C203.incipit = ""
 trGC.Ode5C203.text = ""
 
 trGC.Ode5C2Tr.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C2Tr.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C2Tr.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C2Tr.incipit = ""
 trGC.Ode5C2Tr.text = ""
 
 trGC.Ode5C2T.ode = misc_en_US_houpos.Ode5
 trGC.Ode5C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode5C2T.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.name
+trGC.Ode5C2T.melody = he.h.m6_en_US_houpos.EkNyktosOrthrizonta.incipit
 trGC.Ode5C2T.incipit = ""
 trGC.Ode5C2T.text = ""
 
@@ -1308,121 +1308,121 @@ trGC.Ode6C1H.text = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.text
 
 trGC.Ode6C101.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C101.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C101.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C101.incipit = ""
 trGC.Ode6C101.text = ""
 
 trGC.Ode6C102.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C102.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C102.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C102.incipit = ""
 trGC.Ode6C102.text = ""
 
 trGC.Ode6C103.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C103.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C103.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C103.incipit = ""
 trGC.Ode6C103.text = ""
 
 trGC.Ode6C104.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C104.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C104.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C104.incipit = ""
 trGC.Ode6C104.text = ""
 
 trGC.Ode6C105.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C105.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C105.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C105.incipit = ""
 trGC.Ode6C105.text = ""
 
 trGC.Ode6C106.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C106.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C106.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C106.incipit = ""
 trGC.Ode6C106.text = ""
 
 trGC.Ode6C107.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C107.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C107.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C107.incipit = ""
 trGC.Ode6C107.text = ""
 
 trGC.Ode6C108.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C108.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C108.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C108.incipit = ""
 trGC.Ode6C108.text = ""
 
 trGC.Ode6C109.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C109.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C109.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C109.incipit = ""
 trGC.Ode6C109.text = ""
 
 trGC.Ode6C110.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C110.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C110.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C110.incipit = ""
 trGC.Ode6C110.text = ""
 
 trGC.Ode6C111.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C111.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C111.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C111.incipit = ""
 trGC.Ode6C111.text = ""
 
 trGC.Ode6C112.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C112.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C112.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C112.incipit = ""
 trGC.Ode6C112.text = ""
 
 trGC.Ode6C113.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C113.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C113.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C113.incipit = ""
 trGC.Ode6C113.text = ""
 
 trGC.Ode6C114.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C114.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C114.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C114.incipit = ""
 trGC.Ode6C114.text = ""
 
 trGC.Ode6C115.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C115.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C115.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C115.incipit = ""
 trGC.Ode6C115.text = ""
 
 trGC.Ode6C201.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C201.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C201.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C201.incipit = ""
 trGC.Ode6C201.text = ""
 
 trGC.Ode6C202.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C202.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C202.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C202.incipit = ""
 trGC.Ode6C202.text = ""
 
 trGC.Ode6C203.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C203.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C203.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C203.incipit = ""
 trGC.Ode6C203.text = ""
 
 trGC.Ode6C2Tr.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C2Tr.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C2Tr.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C2Tr.incipit = ""
 trGC.Ode6C2Tr.text = ""
 
 trGC.Ode6C2T.ode = misc_en_US_houpos.Ode6
 trGC.Ode6C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode6C2T.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.name
+trGC.Ode6C2T.melody = he.h.m6_en_US_houpos.EvoisaEnOliKardiaMou.incipit
 trGC.Ode6C2T.incipit = ""
 trGC.Ode6C2T.text = ""
 
@@ -1538,151 +1538,151 @@ trGC.Ode7C1H.text = he.h.m6_en_US_houpos.ImartomenInomisamen.text
 
 trGC.Ode7C101.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C101.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C101.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C101.incipit = ""
 trGC.Ode7C101.text = ""
 
 trGC.Ode7C102.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C102.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C102.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C102.incipit = ""
 trGC.Ode7C102.text = ""
 
 trGC.Ode7C103.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C103.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C103.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C103.incipit = ""
 trGC.Ode7C103.text = ""
 
 trGC.Ode7C104.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C104.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C104.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C104.incipit = ""
 trGC.Ode7C104.text = ""
 
 trGC.Ode7C105.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C105.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C105.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C105.incipit = ""
 trGC.Ode7C105.text = ""
 
 trGC.Ode7C106.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C106.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C106.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C106.incipit = ""
 trGC.Ode7C106.text = ""
 
 trGC.Ode7C107.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C107.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C107.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C107.incipit = ""
 trGC.Ode7C107.text = ""
 
 trGC.Ode7C108.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C108.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C108.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C108.incipit = ""
 trGC.Ode7C108.text = ""
 
 trGC.Ode7C109.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C109.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C109.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C109.incipit = ""
 trGC.Ode7C109.text = ""
 
 trGC.Ode7C110.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C110.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C110.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C110.incipit = ""
 trGC.Ode7C110.text = ""
 
 trGC.Ode7C111.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C111.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C111.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C111.incipit = ""
 trGC.Ode7C111.text = ""
 
 trGC.Ode7C112.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C112.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C112.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C112.incipit = ""
 trGC.Ode7C112.text = ""
 
 trGC.Ode7C113.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C113.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C113.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C113.incipit = ""
 trGC.Ode7C113.text = ""
 
 trGC.Ode7C114.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C114.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C114.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C114.incipit = ""
 trGC.Ode7C114.text = ""
 
 trGC.Ode7C115.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C115.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C115.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C115.incipit = ""
 trGC.Ode7C115.text = ""
 
 trGC.Ode7C116.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C116.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C116.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C116.incipit = ""
 trGC.Ode7C116.text = ""
 
 trGC.Ode7C117.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C117.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C117.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C117.incipit = ""
 trGC.Ode7C117.text = ""
 
 trGC.Ode7C118.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C118.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C118.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C118.incipit = ""
 trGC.Ode7C118.text = ""
 
 trGC.Ode7C119.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C119.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C119.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C119.incipit = ""
 trGC.Ode7C119.text = ""
 
 trGC.Ode7C120.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C120.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C120.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C120.incipit = ""
 trGC.Ode7C120.text = ""
 
 trGC.Ode7C201.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C201.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C201.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C201.incipit = ""
 trGC.Ode7C201.text = ""
 
 trGC.Ode7C202.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C202.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C202.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C202.incipit = ""
 trGC.Ode7C202.text = ""
 
 trGC.Ode7C203.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C203.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C203.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C203.incipit = ""
 trGC.Ode7C203.text = ""
 
 trGC.Ode7C2Tr.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C2Tr.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C2Tr.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C2Tr.incipit = ""
 trGC.Ode7C2Tr.text = ""
 
 trGC.Ode7C2T.ode = misc_en_US_houpos.Ode7
 trGC.Ode7C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode7C2T.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.name
+trGC.Ode7C2T.melody = he.h.m6_en_US_houpos.ImartomenInomisamen.incipit
 trGC.Ode7C2T.incipit = ""
 trGC.Ode7C2T.text = ""
 
@@ -1696,55 +1696,55 @@ trMA.Ode8C1H.text = he.h.m8_en_US_houpos.TonAnarchonVasilea.text
 
 trMA.Ode8C11.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C11.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C11.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C11.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C11.incipit = ""
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C12.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C12.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C12.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C12.incipit = ""
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C13.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C13.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C13.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C13.incipit = ""
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C1T.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C1T.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C1T.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C1T.incipit = ""
 trMA.Ode8C1T.text = ""
 
 trMA.Ode8C21.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C21.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C21.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C21.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C21.incipit = ""
 trMA.Ode8C21.text = ""
 
 trMA.Ode8C22.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C22.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C22.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C22.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C22.incipit = ""
 trMA.Ode8C22.text = ""
 
 trMA.Ode8C23.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C23.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C23.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C23.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C23.incipit = ""
 trMA.Ode8C23.text = ""
 
 trMA.Ode8C2Tr.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C2Tr.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C2Tr.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C2Tr.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C2Tr.incipit = ""
 trMA.Ode8C2Tr.text = ""
 
 trMA.Ode8C2T.ode = misc_en_US_houpos.Ode8
 trMA.Ode8C2T.mode = misc_en_US_houpos.Mode8
-trMA.Ode8C2T.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.name
+trMA.Ode8C2T.melody = he.h.m8_en_US_houpos.TonAnarchonVasilea.incipit
 trMA.Ode8C2T.incipit = ""
 trMA.Ode8C2T.text = ""
 
@@ -1758,151 +1758,151 @@ trGC.Ode8C1H.text = he.h.m6_en_US_houpos.OnStratiaiOuranon.text
 
 trGC.Ode8C101.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C101.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C101.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C101.incipit = ""
 trGC.Ode8C101.text = ""
 
 trGC.Ode8C102.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C102.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C102.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C102.incipit = ""
 trGC.Ode8C102.text = ""
 
 trGC.Ode8C103.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C103.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C103.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C103.incipit = ""
 trGC.Ode8C103.text = ""
 
 trGC.Ode8C104.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C104.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C104.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C104.incipit = ""
 trGC.Ode8C104.text = ""
 
 trGC.Ode8C105.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C105.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C105.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C105.incipit = ""
 trGC.Ode8C105.text = ""
 
 trGC.Ode8C106.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C106.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C106.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C106.incipit = ""
 trGC.Ode8C106.text = ""
 
 trGC.Ode8C107.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C107.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C107.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C107.incipit = ""
 trGC.Ode8C107.text = ""
 
 trGC.Ode8C108.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C108.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C108.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C108.incipit = ""
 trGC.Ode8C108.text = ""
 
 trGC.Ode8C109.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C109.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C109.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C109.incipit = ""
 trGC.Ode8C109.text = ""
 
 trGC.Ode8C110.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C110.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C110.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C110.incipit = ""
 trGC.Ode8C110.text = ""
 
 trGC.Ode8C111.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C111.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C111.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C111.incipit = ""
 trGC.Ode8C111.text = ""
 
 trGC.Ode8C112.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C112.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C112.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C112.incipit = ""
 trGC.Ode8C112.text = ""
 
 trGC.Ode8C113.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C113.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C113.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C113.incipit = ""
 trGC.Ode8C113.text = ""
 
 trGC.Ode8C114.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C114.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C114.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C114.incipit = ""
 trGC.Ode8C114.text = ""
 
 trGC.Ode8C115.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C115.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C115.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C115.incipit = ""
 trGC.Ode8C115.text = ""
 
 trGC.Ode8C116.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C116.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C116.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C116.incipit = ""
 trGC.Ode8C116.text = ""
 
 trGC.Ode8C117.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C117.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C117.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C117.incipit = ""
 trGC.Ode8C117.text = ""
 
 trGC.Ode8C118.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C118.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C118.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C118.incipit = ""
 trGC.Ode8C118.text = ""
 
 trGC.Ode8C119.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C119.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C119.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C119.incipit = ""
 trGC.Ode8C119.text = ""
 
 trGC.Ode8C120.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C120.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C120.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C120.incipit = ""
 trGC.Ode8C120.text = ""
 
 trGC.Ode8C201.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C201.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C201.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C201.incipit = ""
 trGC.Ode8C201.text = ""
 
 trGC.Ode8C202.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C202.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C202.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C202.incipit = ""
 trGC.Ode8C202.text = ""
 
 trGC.Ode8C203.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C203.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C203.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C203.incipit = ""
 trGC.Ode8C203.text = ""
 
 trGC.Ode8C2Tr.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C2Tr.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C2Tr.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C2Tr.incipit = ""
 trGC.Ode8C2Tr.text = ""
 
 trGC.Ode8C2T.ode = misc_en_US_houpos.Ode8
 trGC.Ode8C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode8C2T.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.name
+trGC.Ode8C2T.melody = he.h.m6_en_US_houpos.OnStratiaiOuranon.incipit
 trGC.Ode8C2T.incipit = ""
 trGC.Ode8C2T.text = ""
 
@@ -1922,25 +1922,25 @@ trMA.Ode9C1H.text = he.h.m8_en_US_houpos.KyriosTheotokon.text
 
 trMA.Ode9C11.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C11.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C11.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
+trMA.Ode9C11.melody = he.h.m8_en_US_houpos.KyriosTheotokon.incipit
 trMA.Ode9C11.incipit = ""
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C12.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C12.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
+trMA.Ode9C12.melody = he.h.m8_en_US_houpos.KyriosTheotokon.incipit
 trMA.Ode9C12.incipit = ""
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C13.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C13.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
+trMA.Ode9C13.melody = he.h.m8_en_US_houpos.KyriosTheotokon.incipit
 trMA.Ode9C13.incipit = ""
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C1T.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C1T.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C1T.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
+trMA.Ode9C1T.melody = he.h.m8_en_US_houpos.KyriosTheotokon.incipit
 trMA.Ode9C1T.incipit = ""
 trMA.Ode9C1T.text = ""
 
@@ -1952,31 +1952,31 @@ trMA.Ode9C2H.text = he.h.m8_en_US_houpos.SeTinOuranou.text
 
 trMA.Ode9C21.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C21.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C21.melody = he.h.m8_en_US_houpos.SeTinOuranou.name
+trMA.Ode9C21.melody = he.h.m8_en_US_houpos.SeTinOuranou.incipit
 trMA.Ode9C21.incipit = ""
 trMA.Ode9C21.text = ""
 
 trMA.Ode9C22.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C22.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C22.melody = he.h.m8_en_US_houpos.SeTinOuranou.name
+trMA.Ode9C22.melody = he.h.m8_en_US_houpos.SeTinOuranou.incipit
 trMA.Ode9C22.incipit = ""
 trMA.Ode9C22.text = ""
 
 trMA.Ode9C23.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C23.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C23.melody = he.h.m8_en_US_houpos.SeTinOuranou.name
+trMA.Ode9C23.melody = he.h.m8_en_US_houpos.SeTinOuranou.incipit
 trMA.Ode9C23.incipit = ""
 trMA.Ode9C23.text = ""
 
 trMA.Ode9C2Tr.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C2Tr.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C2Tr.melody = he.h.m8_en_US_houpos.SeTinOuranou.name
+trMA.Ode9C2Tr.melody = he.h.m8_en_US_houpos.SeTinOuranou.incipit
 trMA.Ode9C2Tr.incipit = ""
 trMA.Ode9C2Tr.text = ""
 
 trMA.Ode9C2T.ode = misc_en_US_houpos.Ode9
 trMA.Ode9C2T.mode = misc_en_US_houpos.Mode8
-trMA.Ode9C2T.melody = he.h.m8_en_US_houpos.SeTinOuranou.name
+trMA.Ode9C2T.melody = he.h.m8_en_US_houpos.SeTinOuranou.incipit
 trMA.Ode9C2T.incipit = ""
 trMA.Ode9C2T.text = ""
 
@@ -1990,181 +1990,181 @@ trGC.Ode9C1H.text = he.h.m6_en_US_houpos.AsporouSyllipseos.text
 
 trGC.Ode9C101.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C101.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C101.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C101.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C101.incipit = ""
 trGC.Ode9C101.text = ""
 
 trGC.Ode9C102.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C102.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C102.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C102.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C102.incipit = ""
 trGC.Ode9C102.text = ""
 
 trGC.Ode9C103.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C103.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C103.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C103.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C103.incipit = ""
 trGC.Ode9C103.text = ""
 
 trGC.Ode9C104.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C104.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C104.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C104.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C104.incipit = ""
 trGC.Ode9C104.text = ""
 
 trGC.Ode9C105.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C105.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C105.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C105.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C105.incipit = ""
 trGC.Ode9C105.text = ""
 
 trGC.Ode9C106.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C106.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C106.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C106.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C106.incipit = ""
 trGC.Ode9C106.text = ""
 
 trGC.Ode9C107.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C107.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C107.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C107.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C107.incipit = ""
 trGC.Ode9C107.text = ""
 
 trGC.Ode9C108.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C108.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C108.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C108.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C108.incipit = ""
 trGC.Ode9C108.text = ""
 
 trGC.Ode9C109.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C109.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C109.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C109.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C109.incipit = ""
 trGC.Ode9C109.text = ""
 
 trGC.Ode9C110.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C110.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C110.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C110.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C110.incipit = ""
 trGC.Ode9C110.text = ""
 
 trGC.Ode9C111.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C111.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C111.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C111.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C111.incipit = ""
 trGC.Ode9C111.text = ""
 
 trGC.Ode9C112.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C112.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C112.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C112.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C112.incipit = ""
 trGC.Ode9C112.text = ""
 
 trGC.Ode9C113.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C113.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C113.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C113.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C113.incipit = ""
 trGC.Ode9C113.text = ""
 
 trGC.Ode9C114.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C114.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C114.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C114.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C114.incipit = ""
 trGC.Ode9C114.text = ""
 
 trGC.Ode9C115.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C115.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C115.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C115.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C115.incipit = ""
 trGC.Ode9C115.text = ""
 
 trGC.Ode9C116.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C116.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C116.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C116.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C116.incipit = ""
 trGC.Ode9C116.text = ""
 
 trGC.Ode9C117.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C117.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C117.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C117.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C117.incipit = ""
 trGC.Ode9C117.text = ""
 
 trGC.Ode9C118.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C118.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C118.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C118.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C118.incipit = ""
 trGC.Ode9C118.text = ""
 
 trGC.Ode9C119.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C119.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C119.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C119.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C119.incipit = ""
 trGC.Ode9C119.text = ""
 
 trGC.Ode9C120.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C120.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C120.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C120.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C120.incipit = ""
 trGC.Ode9C120.text = ""
 
 trGC.Ode9C121.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C121.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C121.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C121.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C121.incipit = ""
 trGC.Ode9C121.text = ""
 
 trGC.Ode9C122.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C122.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C122.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C122.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C122.incipit = ""
 trGC.Ode9C122.text = ""
 
 trGC.Ode9C123.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C123.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C123.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C123.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C123.incipit = ""
 trGC.Ode9C123.text = ""
 
 trGC.Ode9C124.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C124.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C124.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C124.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C124.incipit = ""
 trGC.Ode9C124.text = ""
 
 trGC.Ode9C125.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C125.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C125.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C125.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C125.incipit = ""
 trGC.Ode9C125.text = ""
 
 trGC.Ode9C201.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C201.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C201.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C201.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C201.incipit = ""
 trGC.Ode9C201.text = ""
 
 trGC.Ode9C202.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C202.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C202.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C202.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C202.incipit = ""
 trGC.Ode9C202.text = ""
 
 trGC.Ode9C203.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C203.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C203.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C203.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C203.incipit = ""
 trGC.Ode9C203.text = ""
 
 trGC.Ode9C2Tr.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C2Tr.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C2Tr.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C2Tr.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C2Tr.incipit = ""
 trGC.Ode9C2Tr.text = ""
 
 trGC.Ode9C2T.ode = misc_en_US_houpos.Ode9
 trGC.Ode9C2T.mode = misc_en_US_houpos.Mode6
-trGC.Ode9C2T.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.name
+trGC.Ode9C2T.melody = he.h.m6_en_US_houpos.AsporouSyllipseos.incipit
 trGC.Ode9C2T.incipit = ""
 trGC.Ode9C2T.text = ""
 

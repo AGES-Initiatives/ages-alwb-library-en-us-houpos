@@ -1,7 +1,8 @@
 A_Resource_Whose_Name = properties_en_US_houpos
 
 version.designation = "AGH"
-version.translator = "Fr Andreas Houpos"
+version.name = "Fr Andreas Houpos."
+version.translator = "Translated by Fr Andreas Houpos"
 
 version.notice1 = ""
 

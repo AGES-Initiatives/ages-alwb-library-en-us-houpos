@@ -1,85 +1,113 @@
 A_Resource_Whose_Name = he.h.m1_en_US_houpos
 
 AftiIKliti.notmetered = "N/M (This is it.)"
-AftiIKliti.incipit = "This is it."
+AftiIKliti.name = "This is it."
+AftiIKliti.incipit = "This is it…"
+AftiIKliti.melody = misc_en_US_houpos.Heirmos
 AftiIKliti.mode = misc_en_US_houpos.Mode1
 AftiIKliti.ode = misc_en_US_houpos.Ode8
 AftiIKliti.text = ""
 
 AlionPontogenes.notmetered = "N/M (Briny and born.)"
-AlionPontogenes.incipit = "Briny and born."
+AlionPontogenes.name = "Briny and born."
+AlionPontogenes.incipit = "Briny and born…"
+AlionPontogenes.melody = misc_en_US_houpos.Heirmos
 AlionPontogenes.mode = misc_en_US_houpos.Mode1
 AlionPontogenes.ode = misc_en_US_houpos.Ode6
 AlionPontogenes.text = ""
 
 AnastaseosImera.notmetered = "N/M (Resurrection Day.)"
-AnastaseosImera.incipit = "Resurrection Day."
+AnastaseosImera.name = "Resurrection Day."
+AnastaseosImera.incipit = "Resurrection Day…"
+AnastaseosImera.melody = misc_en_US_houpos.Heirmos
 AnastaseosImera.mode = misc_en_US_houpos.Mode1
 AnastaseosImera.ode = misc_en_US_houpos.Ode1
 AnastaseosImera.text = ""
 
 AnthrakaPyrosTonIsaiou.notmetered = "N/M ()"
-AnthrakaPyrosTonIsaiou.incipit = ""
+AnthrakaPyrosTonIsaiou.name = ""
+AnthrakaPyrosTonIsaiou.incipit = "…"
+AnthrakaPyrosTonIsaiou.melody = misc_en_US_houpos.Heirmos
 AnthrakaPyrosTonIsaiou.mode = misc_en_US_houpos.Mode1
 AnthrakaPyrosTonIsaiou.ode = misc_en_US_houpos.Ode5
 AnthrakaPyrosTonIsaiou.text = ""
 
 AperripsasMe.notmetered = "N/M ()"
-AperripsasMe.incipit = ""
+AperripsasMe.name = ""
+AperripsasMe.incipit = "…"
+AperripsasMe.melody = misc_en_US_houpos.Heirmos
 AperripsasMe.mode = misc_en_US_houpos.Mode1
 AperripsasMe.ode = misc_en_US_houpos.Ode6
 AperripsasMe.text = ""
 
-AsomenPantesLaoi.notmetered = "N/M ()"
-AsomenPantesLaoi.incipit = ""
+AsomenPantesLaoi.notmetered = "N/M (All people, sing to the Lord.)"
+AsomenPantesLaoi.name = "All people, sing to the Lord."
+AsomenPantesLaoi.incipit = "…"
+AsomenPantesLaoi.melody = misc_en_US_houpos.Heirmos
 AsomenPantesLaoi.mode = misc_en_US_houpos.Mode1
 AsomenPantesLaoi.ode = misc_en_US_houpos.Ode1
 AsomenPantesLaoi.text = ""
 
 AvramiaioiPaides.notmetered = "N/M ()"
-AvramiaioiPaides.incipit = ""
+AvramiaioiPaides.name = ""
+AvramiaioiPaides.incipit = "…"
+AvramiaioiPaides.melody = misc_en_US_houpos.Heirmos
 AvramiaioiPaides.mode = misc_en_US_houpos.Mode1
 AvramiaioiPaides.ode = misc_en_US_houpos.Ode7
 AvramiaioiPaides.text = ""
 
 ChaireParthenias.notmetered = "N/M ()"
-ChaireParthenias.incipit = ""
+ChaireParthenias.name = ""
+ChaireParthenias.incipit = "…"
+ChaireParthenias.melody = misc_en_US_houpos.Heirmos
 ChaireParthenias.mode = misc_en_US_houpos.Mode1
 ChaireParthenias.ode = misc_en_US_houpos.Ode9
 ChaireParthenias.text = ""
 
 CheirasEnToLakko.notmetered = "N/M (Daniel, who is known.)"
-CheirasEnToLakko.incipit = "Daniel, who is known."
+CheirasEnToLakko.name = "Daniel, who is known."
+CheirasEnToLakko.incipit = "Daniel, who is known…"
+CheirasEnToLakko.melody = misc_en_US_houpos.Heirmos
 CheirasEnToLakko.mode = misc_en_US_houpos.Mode1
 CheirasEnToLakko.ode = misc_en_US_houpos.Ode8
 CheirasEnToLakko.text = ""
 
 ChristosGennatai.notmetered = "N/M (Christ is born.)"
-ChristosGennatai.incipit = "Christ is born."
+ChristosGennatai.name = "Christ is born."
+ChristosGennatai.incipit = "Christ is born…"
+ChristosGennatai.melody = misc_en_US_houpos.Heirmos
 ChristosGennatai.mode = misc_en_US_houpos.Mode1
 ChristosGennatai.ode = misc_en_US_houpos.Ode1
 ChristosGennatai.text = ""
 
 DeftePomaPiomen.notmetered = "N/M (Come and let us drink.)"
-DeftePomaPiomen.incipit = "Come and let us drink."
+DeftePomaPiomen.name = "Come and let us drink."
+DeftePomaPiomen.incipit = "Come and let us drink…"
+DeftePomaPiomen.melody = misc_en_US_houpos.Heirmos
 DeftePomaPiomen.mode = misc_en_US_houpos.Mode1
 DeftePomaPiomen.ode = misc_en_US_houpos.Ode3
 DeftePomaPiomen.text = ""
 
 EikoniLatrevein.notmetered = "N/M ()"
-EikoniLatrevein.incipit = ""
+EikoniLatrevein.name = ""
+EikoniLatrevein.incipit = "…"
+EikoniLatrevein.melody = misc_en_US_houpos.Heirmos
 EikoniLatrevein.mode = misc_en_US_houpos.Mode1
 EikoniLatrevein.ode = misc_en_US_houpos.Ode7
 EikoniLatrevein.text = ""
 
 EisakikoaKyrieTinAkoin.notmetered = "N/M ()"
-EisakikoaKyrieTinAkoin.incipit = ""
+EisakikoaKyrieTinAkoin.name = ""
+EisakikoaKyrieTinAkoin.incipit = "…"
+EisakikoaKyrieTinAkoin.melody = misc_en_US_houpos.Heirmos
 EisakikoaKyrieTinAkoin.mode = misc_en_US_houpos.Mode1
 EisakikoaKyrieTinAkoin.ode = misc_en_US_houpos.Ode4
 EisakikoaKyrieTinAkoin.text = ""
 
 EkNyktosErgon.notmetered = "N/M (Would that You come.)"
-EkNyktosErgon.incipit = "Would that You come."
+EkNyktosErgon.name = "Would that You come."
+EkNyktosErgon.incipit = "Would that You come…"
+EkNyktosErgon.melody = misc_en_US_houpos.Heirmos
 EkNyktosErgon.mode = misc_en_US_houpos.Mode1
 EkNyktosErgon.ode = misc_en_US_houpos.Ode5
 EkNyktosErgon.text = ""
@@ -90,61 +118,89 @@ EkNyktosErgon4.text = ""
 EkNyktosErgon5.text = ""
 
 EkNyktosOrthrizontes.notmetered = "N/M ()"
-EkNyktosOrthrizontes.incipit = "N/M"
+EkNyktosOrthrizontes.name = "N/M ()"
+EkNyktosOrthrizontes.incipit = "N/M…"
+EkNyktosOrthrizontes.melody = misc_en_US_houpos.Heirmos
 EkNyktosOrthrizontes.mode = misc_en_US_houpos.Mode1
 EkNyktosOrthrizontes.ode = misc_en_US_houpos.Ode5
 EkNyktosOrthrizontes.text = ""
 
+EkNyktosOrthrizontesYmnoumenSe.notmetered = "N/M (Rising from the night, we sing.)"
+EkNyktosOrthrizontesYmnoumenSe.name = "Rising from the night, we sing."
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Rising from the night, we sing…"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_US_houpos.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_US_houpos.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_US_houpos.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = ""
+
 EkyklosenImas.notmetered = "N/M ()"
-EkyklosenImas.incipit = ""
+EkyklosenImas.name = ""
+EkyklosenImas.incipit = "…"
+EkyklosenImas.melody = misc_en_US_houpos.Heirmos
 EkyklosenImas.mode = misc_en_US_houpos.Mode1
 EkyklosenImas.ode = misc_en_US_houpos.Ode6
 EkyklosenImas.text = ""
 
 EnKaminoPaides.notmetered = "N/M ()"
-EnKaminoPaides.incipit = ""
+EnKaminoPaides.name = ""
+EnKaminoPaides.incipit = "…"
+EnKaminoPaides.melody = misc_en_US_houpos.Heirmos
 EnKaminoPaides.mode = misc_en_US_houpos.Mode1
 EnKaminoPaides.ode = misc_en_US_houpos.Ode8
 EnKaminoPaides.text = ""
 
 EnPnevmatiProvlepon.notmetered = "N/M (When you, Prophet Habbakuk.)"
-EnPnevmatiProvlepon.incipit = "When you, Prophet Habbakuk."
+EnPnevmatiProvlepon.name = "When you, Prophet Habbakuk."
+EnPnevmatiProvlepon.incipit = "When you, Prophet Habbakuk…"
+EnPnevmatiProvlepon.melody = misc_en_US_houpos.Heirmos
 EnPnevmatiProvlepon.mode = misc_en_US_houpos.Mode1
 EnPnevmatiProvlepon.ode = misc_en_US_houpos.Ode4
 EnPnevmatiProvlepon.text = ""
 
 EpainonOTheoptis.notmetered = "N/M ()"
-EpainonOTheoptis.incipit = ""
+EpainonOTheoptis.name = ""
+EpainonOTheoptis.incipit = "…"
+EpainonOTheoptis.melody = misc_en_US_houpos.Heirmos
 EpainonOTheoptis.mode = misc_en_US_houpos.Mode1
 EpainonOTheoptis.ode = misc_en_US_houpos.Ode1
 EpainonOTheoptis.text = ""
 
 EpiStavrouSeDynate.notmetered = "N/M (O mighty Lord.)"
-EpiStavrouSeDynate.incipit = "O mighty Lord."
+EpiStavrouSeDynate.name = "O mighty Lord."
+EpiStavrouSeDynate.incipit = "O mighty Lord…"
+EpiStavrouSeDynate.melody = misc_en_US_houpos.Heirmos
 EpiStavrouSeDynate.mode = misc_en_US_houpos.Mode1
 EpiStavrouSeDynate.ode = misc_en_US_houpos.Ode4
 EpiStavrouSeDynate.text = ""
 
 EpiTisTheiasFylakis.notmetered = "N/M (Now let Habakkuk.)"
-EpiTisTheiasFylakis.incipit = "Now let Habakkuk."
+EpiTisTheiasFylakis.name = "Now let Habakkuk."
+EpiTisTheiasFylakis.incipit = "Now let Habakkuk…"
+EpiTisTheiasFylakis.melody = misc_en_US_houpos.Heirmos
 EpiTisTheiasFylakis.mode = misc_en_US_houpos.Mode1
 EpiTisTheiasFylakis.ode = misc_en_US_houpos.Ode4
 EpiTisTheiasFylakis.text = ""
 
 EpirthiOIlios.notmetered = "N/M ()"
-EpirthiOIlios.incipit = ""
+EpirthiOIlios.name = ""
+EpirthiOIlios.incipit = "…"
+EpirthiOIlios.melody = misc_en_US_houpos.Heirmos
 EpirthiOIlios.mode = misc_en_US_houpos.Mode1
 EpirthiOIlios.ode = misc_en_US_houpos.Ode4
 EpirthiOIlios.text = ""
 
 EpoiiseKratos.notmetered = "N/M ()"
-EpoiiseKratos.incipit = ""
+EpoiiseKratos.name = ""
+EpoiiseKratos.incipit = "…"
+EpoiiseKratos.melody = misc_en_US_houpos.Heirmos
 EpoiiseKratos.mode = misc_en_US_houpos.Mode1
 EpoiiseKratos.ode = misc_en_US_houpos.Ode9
 EpoiiseKratos.text = ""
 
 EsoseLaon.notmetered = "N/M (Working signs of old.)"
-EsoseLaon.incipit = "Working signs of old."
+EsoseLaon.name = "Working signs of old."
+EsoseLaon.incipit = "Working signs of old…"
+EsoseLaon.melody = misc_en_US_houpos.Heirmos
 EsoseLaon.mode = misc_en_US_houpos.Mode1
 EsoseLaon.ode = misc_en_US_houpos.Ode1
 EsoseLaon.text = ""
@@ -155,25 +211,33 @@ EsoseLaon4.text = ""
 EsoseLaon5.text = ""
 
 FlogaDrosizousanOsious.notmetered = "N/M (Unto the Servants.)"
-FlogaDrosizousanOsious.incipit = "Unto the Servants."
+FlogaDrosizousanOsious.name = "Unto the Servants."
+FlogaDrosizousanOsious.incipit = "Unto the Servants…"
+FlogaDrosizousanOsious.melody = misc_en_US_houpos.Heirmos
 FlogaDrosizousanOsious.mode = misc_en_US_houpos.Mode1
 FlogaDrosizousanOsious.ode = misc_en_US_houpos.Ode8
 FlogaDrosizousanOsious.text = ""
 
 FlogoseosOPaidas.notmetered = "N/M (The same One.)"
-FlogoseosOPaidas.incipit = "The same One."
+FlogoseosOPaidas.name = "The same One."
+FlogoseosOPaidas.incipit = "The same One…"
+FlogoseosOPaidas.melody = misc_en_US_houpos.Heirmos
 FlogoseosOPaidas.mode = misc_en_US_houpos.Mode1
 FlogoseosOPaidas.ode = misc_en_US_houpos.Ode7
 FlogoseosOPaidas.text = ""
 
 FotizouFotizou.notmetered = "N/M (Be illumined.)"
-FotizouFotizou.incipit = "Be illumined."
+FotizouFotizou.name = "Be illumined."
+FotizouFotizou.incipit = "Be illumined…"
+FotizouFotizou.melody = misc_en_US_houpos.Heirmos
 FotizouFotizou.mode = misc_en_US_houpos.Mode1
 FotizouFotizou.ode = misc_en_US_houpos.Ode9
 FotizouFotizou.text = ""
 
 GenousVroteiou.notmetered = "N/M (Prophet Habakkuk.)"
-GenousVroteiou.incipit = "Prophet Habakkuk."
+GenousVroteiou.name = "Prophet Habakkuk."
+GenousVroteiou.incipit = "Prophet Habakkuk…"
+GenousVroteiou.melody = misc_en_US_houpos.Heirmos
 GenousVroteiou.mode = misc_en_US_houpos.Mode1
 GenousVroteiou.ode = misc_en_US_houpos.Ode4
 GenousVroteiou.text = ""
@@ -184,67 +248,89 @@ GenousVroteiou4.text = ""
 GenousVroteiou5.text = ""
 
 IDimiourgiki.notmetered = "N/M (O Wisdom of our God.)"
-IDimiourgiki.incipit = "O Wisdom of our God."
+IDimiourgiki.name = "O Wisdom of our God."
+IDimiourgiki.incipit = "O Wisdom of our God…"
+IDimiourgiki.melody = misc_en_US_houpos.Heirmos
 IDimiourgiki.mode = misc_en_US_houpos.Mode1
 IDimiourgiki.ode = misc_en_US_houpos.Ode3
 IDimiourgiki.text = ""
 
 IKaminosSotirEdrosizeto.notmetered = "N/M (O Savior, as the furnace.)"
-IKaminosSotirEdrosizeto.incipit = "O Savior, as the furnace."
+IKaminosSotirEdrosizeto.name = "O Savior, as the furnace."
+IKaminosSotirEdrosizeto.incipit = "O Savior, as the furnace…"
+IKaminosSotirEdrosizeto.melody = misc_en_US_houpos.Heirmos
 IKaminosSotirEdrosizeto.mode = misc_en_US_houpos.Mode1
 IKaminosSotirEdrosizeto.ode = misc_en_US_houpos.Ode7
 IKaminosSotirEdrosizeto.text = ""
 
 ITonProSyllipseos.notmetered = "N/M ()"
-ITonProSyllipseos.incipit = ""
+ITonProSyllipseos.name = ""
+ITonProSyllipseos.incipit = "…"
+ITonProSyllipseos.melody = misc_en_US_houpos.Heirmos
 ITonProSyllipseos.mode = misc_en_US_houpos.Mode1
 ITonProSyllipseos.ode = misc_en_US_houpos.Ode3
 ITonProSyllipseos.text = ""
 
 IdeteIdete.notmetered = "N/M ()"
-IdeteIdete.incipit = ""
+IdeteIdete.name = ""
+IdeteIdete.incipit = "…"
+IdeteIdete.melody = misc_en_US_houpos.Heirmos
 IdeteIdete.mode = misc_en_US_houpos.Mode1
 IdeteIdete.ode = misc_en_US_houpos.Ode2
 IdeteIdete.text = ""
 
 ItamoThymo.notmetered = "N/M (Counterposed.)"
-ItamoThymo.incipit = "Counterposed."
+ItamoThymo.name = "Counterposed."
+ItamoThymo.incipit = "Counterposed…"
+ItamoThymo.melody = misc_en_US_houpos.Heirmos
 ItamoThymo.mode = misc_en_US_houpos.Mode1
 ItamoThymo.ode = misc_en_US_houpos.Ode7
 ItamoThymo.text = ""
 
 KatavgasonImon.notmetered = "N/M ()"
-KatavgasonImon.incipit = ""
+KatavgasonImon.name = ""
+KatavgasonImon.incipit = "…"
+KatavgasonImon.melody = misc_en_US_houpos.Heirmos
 KatavgasonImon.mode = misc_en_US_houpos.Mode1
 KatavgasonImon.ode = misc_en_US_houpos.Ode5
 KatavgasonImon.text = ""
 
 KatenoisaPantodyname.notmetered = "N/M (O almighty One.)"
-KatenoisaPantodyname.incipit = "O almighty One."
+KatenoisaPantodyname.name = "O almighty One."
+KatenoisaPantodyname.incipit = "O almighty One…"
+KatenoisaPantodyname.melody = misc_en_US_houpos.Heirmos
 KatenoisaPantodyname.mode = misc_en_US_houpos.Mode1
 KatenoisaPantodyname.ode = misc_en_US_houpos.Ode4
 KatenoisaPantodyname.text = ""
 
 KatilthesEnToisKatotatois.notmetered = "N/M (You went down.)"
-KatilthesEnToisKatotatois.incipit = "You went down."
+KatilthesEnToisKatotatois.name = "You went down."
+KatilthesEnToisKatotatois.incipit = "You went down…"
+KatilthesEnToisKatotatois.melody = misc_en_US_houpos.Heirmos
 KatilthesEnToisKatotatois.mode = misc_en_US_houpos.Mode1
 KatilthesEnToisKatotatois.ode = misc_en_US_houpos.Ode6
 KatilthesEnToisKatotatois.text = ""
 
 LithonOnApedokimasan.notmetered = "N/M (As the Psalmist said.)"
-LithonOnApedokimasan.incipit = "As the Psalmist said."
+LithonOnApedokimasan.name = "As the Psalmist said."
+LithonOnApedokimasan.incipit = "As the Psalmist said…"
+LithonOnApedokimasan.melody = misc_en_US_houpos.Heirmos
 LithonOnApedokimasan.mode = misc_en_US_houpos.Mode1
 LithonOnApedokimasan.ode = misc_en_US_houpos.Ode3
 LithonOnApedokimasan.text = ""
 
-MegaToMystirion.notmetered = "N/M ()"
-MegaToMystirion.incipit = ""
+MegaToMystirion.notmetered = "N/M (God-inspired Habakkuk.)"
+MegaToMystirion.name = "God-inspired Habakkuk."
+MegaToMystirion.incipit = "…"
+MegaToMystirion.melody = misc_en_US_houpos.Heirmos
 MegaToMystirion.mode = misc_en_US_houpos.Mode1
 MegaToMystirion.ode = misc_en_US_houpos.Ode4
 MegaToMystirion.text = ""
 
 MitranAflektos.notmetered = "N/M (Standing in fire.)"
-MitranAflektos.incipit = "Standing in fire."
+MitranAflektos.name = "Standing in fire."
+MitranAflektos.incipit = "Standing in fire…"
+MitranAflektos.melody = misc_en_US_houpos.Heirmos
 MitranAflektos.mode = misc_en_US_houpos.Mode1
 MitranAflektos.ode = misc_en_US_houpos.Ode8
 MitranAflektos.text = ""
@@ -255,13 +341,17 @@ MitranAflektos4.text = ""
 MitranAflektos5.text = ""
 
 MystirionXenon.notmetered = "N/M (I see here a strange.)"
-MystirionXenon.incipit = "I see here a strange."
+MystirionXenon.name = "I see here a strange."
+MystirionXenon.incipit = "I see here a strange…"
+MystirionXenon.melody = misc_en_US_houpos.Heirmos
 MystirionXenon.mode = misc_en_US_houpos.Mode1
 MystirionXenon.ode = misc_en_US_houpos.Ode9
 MystirionXenon.text = ""
 
 NaionIonas.notmetered = "N/M (Jonah, as he sat.)"
-NaionIonas.incipit = "Jonah, as he sat."
+NaionIonas.name = "Jonah, as he sat."
+NaionIonas.incipit = "Jonah, as he sat…"
+NaionIonas.melody = misc_en_US_houpos.Heirmos
 NaionIonas.mode = misc_en_US_houpos.Mode1
 NaionIonas.ode = misc_en_US_houpos.Ode6
 NaionIonas.text = ""
@@ -272,7 +362,9 @@ NaionIonas4.text = ""
 NaionIonas5.text = ""
 
 NefsonProsYmnous.notmetered = "N/M (Hearken, Benefactor.)"
-NefsonProsYmnous.incipit = "Hearken, Benefactor."
+NefsonProsYmnous.name = "Hearken, Benefactor."
+NefsonProsYmnous.incipit = "Hearken, Benefactor…"
+NefsonProsYmnous.melody = misc_en_US_houpos.Heirmos
 NefsonProsYmnous.mode = misc_en_US_houpos.Mode1
 NefsonProsYmnous.ode = misc_en_US_houpos.Ode3
 NefsonProsYmnous.text = ""
@@ -283,211 +375,281 @@ NefsonProsYmnous4.text = ""
 NefsonProsYmnous5.text = ""
 
 NenikintaiTisFyseos.notmetered = "N/M (In you the laws.)"
-NenikintaiTisFyseos.incipit = "In you the laws."
+NenikintaiTisFyseos.name = "In you the laws."
+NenikintaiTisFyseos.incipit = "In you the laws…"
+NenikintaiTisFyseos.melody = misc_en_US_houpos.Heirmos
 NenikintaiTisFyseos.mode = misc_en_US_houpos.Mode1
 NenikintaiTisFyseos.ode = misc_en_US_houpos.Ode9
 NenikintaiTisFyseos.text = ""
 
 NyxPeriescheMeSotir.notmetered = "N/M ()"
-NyxPeriescheMeSotir.incipit = "N/M"
+NyxPeriescheMeSotir.name = "N/M ()"
+NyxPeriescheMeSotir.incipit = "N/M…"
+NyxPeriescheMeSotir.melody = misc_en_US_houpos.Heirmos
 NyxPeriescheMeSotir.mode = misc_en_US_houpos.Mode1
 NyxPeriescheMeSotir.ode = misc_en_US_houpos.Ode5
 NyxPeriescheMeSotir.text = ""
 
 ODiaStylouPyros.notmetered = "N/M ()"
-ODiaStylouPyros.incipit = ""
+ODiaStylouPyros.name = ""
+ODiaStylouPyros.incipit = "…"
+ODiaStylouPyros.melody = misc_en_US_houpos.Heirmos
 ODiaStylouPyros.mode = misc_en_US_houpos.Mode1
 ODiaStylouPyros.ode = misc_en_US_houpos.Ode1
 ODiaStylouPyros.text = ""
 
 ODiapontion.notmetered = "N/M ()"
-ODiapontion.incipit = ""
+ODiapontion.name = ""
+ODiapontion.incipit = "…"
+ODiapontion.melody = misc_en_US_houpos.Heirmos
 ODiapontion.mode = misc_en_US_houpos.Mode1
 ODiapontion.ode = misc_en_US_houpos.Ode6
 ODiapontion.text = ""
 
 OEnTiVatoOftheis.notmetered = "N/M (When You appeared.)"
-OEnTiVatoOftheis.incipit = "When You appeared."
+OEnTiVatoOftheis.name = "When You appeared."
+OEnTiVatoOftheis.incipit = "When You appeared…"
+OEnTiVatoOftheis.melody = misc_en_US_houpos.Heirmos
 OEnTiVatoOftheis.mode = misc_en_US_houpos.Mode1
 OEnTiVatoOftheis.ode = misc_en_US_houpos.Ode7
 OEnTiVatoOftheis.text = ""
 
 OFotisasTiEllampsei.notmetered = "N/M ()"
-OFotisasTiEllampsei.incipit = ""
+OFotisasTiEllampsei.name = ""
+OFotisasTiEllampsei.incipit = "…"
+OFotisasTiEllampsei.melody = misc_en_US_houpos.Heirmos
 OFotisasTiEllampsei.mode = misc_en_US_houpos.Mode1
 OFotisasTiEllampsei.ode = misc_en_US_houpos.Ode5
 OFotisasTiEllampsei.text = ""
 
 OMonosEidos.notmetered = "N/M (As You are the only One.)"
-OMonosEidos.incipit = "As You are the only One."
+OMonosEidos.name = "As You are the only One."
+OMonosEidos.incipit = "As You are the only One…"
+OMonosEidos.melody = misc_en_US_houpos.Heirmos
 OMonosEidos.mode = misc_en_US_houpos.Mode1
 OMonosEidos.ode = misc_en_US_houpos.Ode3
 OMonosEidos.text = ""
 
 OPaidasEkKaminou.notmetered = "N/M (The same One.)"
-OPaidasEkKaminou.incipit = "The same One."
+OPaidasEkKaminou.name = "The same One."
+OPaidasEkKaminou.incipit = "The same One…"
+OPaidasEkKaminou.melody = misc_en_US_houpos.Heirmos
 OPaidasEkKaminou.mode = misc_en_US_houpos.Mode1
 OPaidasEkKaminou.ode = misc_en_US_houpos.Ode7
 OPaidasEkKaminou.text = ""
 
 OTonAnoVython.notmetered = "N/M ()"
-OTonAnoVython.incipit = ""
+OTonAnoVython.name = ""
+OTonAnoVython.incipit = "…"
+OTonAnoVython.melody = misc_en_US_houpos.Heirmos
 OTonAnoVython.mode = misc_en_US_houpos.Mode1
 OTonAnoVython.ode = misc_en_US_houpos.Ode9
 OTonAnoVython.text = ""
 
 OdinEpinikion.notmetered = "N/M (An anthem of victory.)"
-OdinEpinikion.incipit = "An anthem of victory."
+OdinEpinikion.name = "An anthem of victory."
+OdinEpinikion.incipit = "An anthem of victory…"
+OdinEpinikion.melody = misc_en_US_houpos.Heirmos
 OdinEpinikion.mode = misc_en_US_houpos.Mode1
 OdinEpinikion.ode = misc_en_US_houpos.Ode1
 OdinEpinikion.text = ""
 
 OiMiTiTrofiChranthentes.notmetered = "N/M ()"
-OiMiTiTrofiChranthentes.incipit = ""
+OiMiTiTrofiChranthentes.name = ""
+OiMiTiTrofiChranthentes.incipit = "…"
+OiMiTiTrofiChranthentes.melody = misc_en_US_houpos.Heirmos
 OiMiTiTrofiChranthentes.mode = misc_en_US_houpos.Mode1
 OiMiTiTrofiChranthentes.ode = misc_en_US_houpos.Ode8
 OiMiTiTrofiChranthentes.text = ""
 
 OiOuranoiTonOuranon.notmetered = "N/M ()"
-OiOuranoiTonOuranon.incipit = ""
+OiOuranoiTonOuranon.name = ""
+OiOuranoiTonOuranon.incipit = "…"
+OiOuranoiTonOuranon.melody = misc_en_US_houpos.Heirmos
 OiOuranoiTonOuranon.mode = misc_en_US_houpos.Mode1
 OiOuranoiTonOuranon.ode = misc_en_US_houpos.Ode8
 OiOuranoiTonOuranon.text = ""
 
 OiPaidesEfseveia.notmetered = "N/M (The Servants nurtured.)"
-OiPaidesEfseveia.incipit = "The Servants nurtured."
+OiPaidesEfseveia.name = "The Servants nurtured."
+OiPaidesEfseveia.incipit = "The Servants nurtured…"
+OiPaidesEfseveia.melody = misc_en_US_houpos.Heirmos
 OiPaidesEfseveia.mode = misc_en_US_houpos.Mode1
 OiPaidesEfseveia.ode = misc_en_US_houpos.Ode7
 OiPaidesEfseveia.text = ""
 
 OMiterParthene.notmetered = "N/M (O true Theotokos.)"
-OMiterParthene.incipit = "O true Theotokos."
+OMiterParthene.name = "O true Theotokos."
+OMiterParthene.incipit = "O true Theotokos…"
+OMiterParthene.melody = misc_en_US_houpos.Heirmos
 OMiterParthene.mode = misc_en_US_houpos.Mode1
 OMiterParthene.ode = misc_en_US_houpos.Ode9
 OMiterParthene.text = ""
 
 OnFrittousinAngeloi.notmetered = "N/M (To Him, the Creator.)"
-OnFrittousinAngeloi.incipit = "To Him, the Creator."
+OnFrittousinAngeloi.name = "To Him, the Creator."
+OnFrittousinAngeloi.incipit = "To Him, the Creator…"
+OnFrittousinAngeloi.melody = misc_en_US_houpos.Heirmos
 OnFrittousinAngeloi.mode = misc_en_US_houpos.Mode1
 OnFrittousinAngeloi.ode = misc_en_US_houpos.Ode8
 OnFrittousinAngeloi.text = ""
 
 OrosSeTiChariti.notmetered = "N/M ()"
-OrosSeTiChariti.incipit = ""
+OrosSeTiChariti.name = ""
+OrosSeTiChariti.incipit = "…"
+OrosSeTiChariti.melody = misc_en_US_houpos.Heirmos
 OrosSeTiChariti.mode = misc_en_US_houpos.Mode1
 OrosSeTiChariti.ode = misc_en_US_houpos.Ode4
 OrosSeTiChariti.text = ""
 
 OrthrisomenOrthrouVatheos.notmetered = "N/M (Arising at dawn.)"
-OrthrisomenOrthrouVatheos.incipit = "Arising at dawn."
+OrthrisomenOrthrouVatheos.name = "Arising at dawn."
+OrthrisomenOrthrouVatheos.incipit = "Arising at dawn…"
+OrthrisomenOrthrouVatheos.melody = misc_en_US_houpos.Heirmos
 OrthrisomenOrthrouVatheos.mode = misc_en_US_houpos.Mode1
 OrthrisomenOrthrouVatheos.ode = misc_en_US_houpos.Ode5
 OrthrisomenOrthrouVatheos.text = ""
 
 OrthrizontesSeAnymnoumen.notmetered = "N/M (We rise early.)"
-OrthrizontesSeAnymnoumen.incipit = "We rise early."
+OrthrizontesSeAnymnoumen.name = "We rise early."
+OrthrizontesSeAnymnoumen.incipit = "We rise early…"
+OrthrizontesSeAnymnoumen.melody = misc_en_US_houpos.Heirmos
 OrthrizontesSeAnymnoumen.mode = misc_en_US_houpos.Mode1
 OrthrizontesSeAnymnoumen.ode = misc_en_US_houpos.Ode5
 OrthrizontesSeAnymnoumen.text = ""
 
 OTheiotatosProetypose.notmetered = "N/M (That most godly prophet.)"
-OTheiotatosProetypose.incipit = "That most godly prophet."
+OTheiotatosProetypose.name = "That most godly prophet."
+OTheiotatosProetypose.incipit = "That most godly prophet…"
+OTheiotatosProetypose.melody = misc_en_US_houpos.Heirmos
 OTheiotatosProetypose.mode = misc_en_US_houpos.Mode1
 OTheiotatosProetypose.ode = misc_en_US_houpos.Ode1
 OTheiotatosProetypose.text = ""
 
 PepoikilmeniTiTheiaDoxi.notmetered = "N/M (Adorned with glory.)"
-PepoikilmeniTiTheiaDoxi.incipit = "Adorned with glory."
+PepoikilmeniTiTheiaDoxi.name = "Adorned with glory."
+PepoikilmeniTiTheiaDoxi.incipit = "Adorned with glory…"
+PepoikilmeniTiTheiaDoxi.melody = misc_en_US_houpos.Heirmos
 PepoikilmeniTiTheiaDoxi.mode = misc_en_US_houpos.Mode1
 PepoikilmeniTiTheiaDoxi.ode = misc_en_US_houpos.Ode1
 PepoikilmeniTiTheiaDoxi.text = ""
 
 ProsecheOuraneKaiLaliso.notmetered = "N/M ()"
-ProsecheOuraneKaiLaliso.incipit = ""
+ProsecheOuraneKaiLaliso.name = ""
+ProsecheOuraneKaiLaliso.incipit = "…"
+ProsecheOuraneKaiLaliso.melody = misc_en_US_houpos.Heirmos
 ProsecheOuraneKaiLaliso.mode = misc_en_US_houpos.Mode1
 ProsecheOuraneKaiLaliso.ode = misc_en_US_houpos.Ode2
 ProsecheOuraneKaiLaliso.text = ""
 
 RavdosEkTisRizis.notmetered = "N/M (Jesse's root.)"
-RavdosEkTisRizis.incipit = "Jesse's root."
+RavdosEkTisRizis.name = "Jesse's root."
+RavdosEkTisRizis.incipit = "Jesse's root…"
+RavdosEkTisRizis.melody = misc_en_US_houpos.Heirmos
 RavdosEkTisRizis.mode = misc_en_US_houpos.Mode1
 RavdosEkTisRizis.ode = misc_en_US_houpos.Ode4
 RavdosEkTisRizis.text = ""
 
 RiseisProfitonKaiAinigmata.notmetered = "N/M (Sayings of the Prophets.)"
-RiseisProfitonKaiAinigmata.incipit = "Sayings of the Prophets."
+RiseisProfitonKaiAinigmata.name = "Sayings of the Prophets."
+RiseisProfitonKaiAinigmata.incipit = "Sayings of the Prophets…"
+RiseisProfitonKaiAinigmata.melody = misc_en_US_houpos.Heirmos
 RiseisProfitonKaiAinigmata.mode = misc_en_US_houpos.Mode1
 RiseisProfitonKaiAinigmata.ode = misc_en_US_houpos.Ode4
 RiseisProfitonKaiAinigmata.text = ""
 
 SeInPerEideMoysis.notmetered = "N/M ()"
-SeInPerEideMoysis.incipit = ""
+SeInPerEideMoysis.name = ""
+SeInPerEideMoysis.incipit = "…"
+SeInPerEideMoysis.melody = misc_en_US_houpos.Heirmos
 SeInPerEideMoysis.mode = misc_en_US_houpos.Mode1
 SeInPerEideMoysis.ode = misc_en_US_houpos.Ode9
 SeInPerEideMoysis.text = ""
 
 SeNoitin.notmetered = "N/M ()"
-SeNoitin.incipit = ""
+SeNoitin.name = ""
+SeNoitin.incipit = "…"
+SeNoitin.melody = misc_en_US_houpos.Heirmos
 SeNoitin.mode = misc_en_US_houpos.Mode1
 SeNoitin.ode = misc_en_US_houpos.Ode7
 SeNoitin.text = ""
 
-SeTinFaeinin.notmetered = "N/M (Mother of our God, we see you.)"
-SeTinFaeinin.incipit = "You, the brightly shining."
+SeTinFaeinin.notmetered = "N/M (Mother of our God, we praise you.)"
+SeTinFaeinin.name = "You, the brightly shining."
+SeTinFaeinin.incipit = "You, the brightly shining…"
+SeTinFaeinin.melody = misc_en_US_houpos.Heirmos
 SeTinFaeinin.mode = misc_en_US_houpos.Mode1
 SeTinFaeinin.ode = misc_en_US_houpos.Ode9
 SeTinFaeinin.text = ""
 
 SeTinOratheisan.notmetered = "N/M ()"
-SeTinOratheisan.incipit = "N/M"
+SeTinOratheisan.name = "N/M ()"
+SeTinOratheisan.incipit = "N/M…"
+SeTinOratheisan.melody = misc_en_US_houpos.Heirmos
 SeTinOratheisan.mode = misc_en_US_houpos.Mode1
 SeTinOratheisan.ode = misc_en_US_houpos.Ode9
 SeTinOratheisan.text = ""
 
-SouITropaiouchos.notmetered = "N/M (As befits Divinity.)"
-SouITropaiouchos.incipit = "As befits Divinity."
+SouITropaiouchos.notmetered = "N/M (Glorified in strength.)"
+SouITropaiouchos.name = "Glorified in strength."
+SouITropaiouchos.incipit = "Glorified in strength…"
+SouITropaiouchos.melody = misc_en_US_houpos.Heirmos
 SouITropaiouchos.mode = misc_en_US_houpos.Mode1
 SouITropaiouchos.ode = misc_en_US_houpos.Ode1
 SouITropaiouchos.text = ""
 
 SplanchnonIonan.notmetered = "N/M (Such as it received.)"
-SplanchnonIonan.incipit = "Such as it received."
+SplanchnonIonan.name = "Such as it received."
+SplanchnonIonan.incipit = "Such as it received…"
+SplanchnonIonan.melody = misc_en_US_houpos.Heirmos
 SplanchnonIonan.mode = misc_en_US_houpos.Mode1
 SplanchnonIonan.ode = misc_en_US_houpos.Ode6
 SplanchnonIonan.text = ""
 
 StereomaMouGenou.notmetered = "N/M (Become my stable support.)"
-StereomaMouGenou.incipit = "Become my stable support."
+StereomaMouGenou.name = "Become my stable support."
+StereomaMouGenou.incipit = "Become my stable support…"
+StereomaMouGenou.melody = misc_en_US_houpos.Heirmos
 StereomaMouGenou.mode = misc_en_US_houpos.Mode1
 StereomaMouGenou.ode = misc_en_US_houpos.Ode3
 StereomaMouGenou.text = ""
 
 StereosonDespotaChriste.notmetered = "N/M (O Christ, set me firmly.)"
-StereosonDespotaChriste.incipit = "O Christ, set me firmly."
+StereosonDespotaChriste.name = "O Christ, set me firmly."
+StereosonDespotaChriste.incipit = "O Christ, set me firmly…"
+StereosonDespotaChriste.melody = misc_en_US_houpos.Heirmos
 StereosonDespotaChriste.mode = misc_en_US_houpos.Mode1
 StereosonDespotaChriste.ode = misc_en_US_houpos.Ode3
 StereosonDespotaChriste.text = ""
 
 StereosonKyrie.notmetered = "N/M ()"
-StereosonKyrie.incipit = ""
+StereosonKyrie.name = ""
+StereosonKyrie.incipit = "…"
+StereosonKyrie.melody = misc_en_US_houpos.Heirmos
 StereosonKyrie.mode = misc_en_US_houpos.Mode1
 StereosonKyrie.ode = misc_en_US_houpos.Ode3
 StereosonKyrie.text = ""
 
-StereosonMeChriste.notmetered = "N/M ()"
-StereosonMeChriste.incipit = ""
+StereosonMeChriste.notmetered = "N/M (Establish me on the rock.)"
+StereosonMeChriste.name = "Establish me on the rock."
+StereosonMeChriste.incipit = "…"
+StereosonMeChriste.melody = misc_en_US_houpos.Heirmos
 StereosonMeChriste.mode = misc_en_US_houpos.Mode1
 StereosonMeChriste.ode = misc_en_US_houpos.Ode3
 StereosonMeChriste.text = ""
 
 StereothitoIKardiaMou.notmetered = "N/M (Firmly established be.)"
-StereothitoIKardiaMou.incipit = "Firmly established be my heart."
+StereothitoIKardiaMou.name = "Firmly established be my heart."
+StereothitoIKardiaMou.incipit = "Firmly established be my heart…"
+StereothitoIKardiaMou.melody = misc_en_US_houpos.Heirmos
 StereothitoIKardiaMou.mode = misc_en_US_houpos.Mode1
 StereothitoIKardiaMou.ode = misc_en_US_houpos.Ode3
 StereothitoIKardiaMou.text = ""
 
 StergeinMenImas.notmetered = "N/M (Easier for us.)"
-StergeinMenImas.incipit = "Easier for us."
+StergeinMenImas.name = "Easier for us."
+StergeinMenImas.incipit = "Easier for us…"
+StergeinMenImas.melody = misc_en_US_houpos.Heirmos
 StergeinMenImas.mode = misc_en_US_houpos.Mode1
 StergeinMenImas.ode = misc_en_US_houpos.Ode9
 StergeinMenImas.text = ""
@@ -498,55 +660,73 @@ StergeinMenImas4.text = ""
 StergeinMenImas5.text = ""
 
 SynToIonaVoomen.notmetered = "N/M ()"
-SynToIonaVoomen.incipit = ""
+SynToIonaVoomen.name = ""
+SynToIonaVoomen.incipit = "…"
+SynToIonaVoomen.melody = misc_en_US_houpos.Heirmos
 SynToIonaVoomen.mode = misc_en_US_houpos.Mode1
 SynToIonaVoomen.ode = misc_en_US_houpos.Ode6
 SynToIonaVoomen.text = ""
 
 SynToThavmasioStas.notmetered = "N/M ()"
-SynToThavmasioStas.incipit = ""
+SynToThavmasioStas.name = ""
+SynToThavmasioStas.incipit = "…"
+SynToThavmasioStas.melody = misc_en_US_houpos.Heirmos
 SynToThavmasioStas.mode = misc_en_US_houpos.Mode1
 SynToThavmasioStas.ode = misc_en_US_houpos.Ode4
 SynToThavmasioStas.text = ""
 
 ThavmatosYperfyous.notmetered = "N/M (Babylon's bedewing furnace.)"
-ThavmatosYperfyous.incipit = "Babylon's bedewing furnace."
+ThavmatosYperfyous.name = "Babylon's bedewing furnace."
+ThavmatosYperfyous.incipit = "Babylon's bedewing furnace…"
+ThavmatosYperfyous.melody = misc_en_US_houpos.Heirmos
 ThavmatosYperfyous.mode = misc_en_US_houpos.Mode1
 ThavmatosYperfyous.ode = misc_en_US_houpos.Ode8
 ThavmatosYperfyous.text = ""
 
 TheosOnEirinis.notmetered = "N/M (God of peace.)"
-TheosOnEirinis.incipit = "God of peace."
+TheosOnEirinis.name = "God of peace."
+TheosOnEirinis.incipit = "God of peace…"
+TheosOnEirinis.melody = misc_en_US_houpos.Heirmos
 TheosOnEirinis.mode = misc_en_US_houpos.Mode1
 TheosOnEirinis.ode = misc_en_US_houpos.Ode5
 TheosOnEirinis.text = ""
 
 TinFotoforonNefelin.notmetered = "N/M (The cloud that radiates.)"
-TinFotoforonNefelin.incipit = "The cloud that radiates."
+TinFotoforonNefelin.name = "The cloud that radiates."
+TinFotoforonNefelin.incipit = "The cloud that radiates…"
+TinFotoforonNefelin.melody = misc_en_US_houpos.Heirmos
 TinFotoforonNefelin.mode = misc_en_US_houpos.Mode1
 TinFotoforonNefelin.ode = misc_en_US_houpos.Ode9
 TinFotoforonNefelin.text = ""
 
 TinSinEirinin.notmetered = "N/M ()"
-TinSinEirinin.incipit = ""
+TinSinEirinin.name = ""
+TinSinEirinin.incipit = "…"
+TinSinEirinin.melody = misc_en_US_houpos.Heirmos
 TinSinEirinin.mode = misc_en_US_houpos.Mode1
 TinSinEirinin.ode = misc_en_US_houpos.Ode5
 TinSinEirinin.text = ""
 
 TinZoodochonPigin.notmetered = "N/M (A spring, abundantly flowing.)"
-TinZoodochonPigin.incipit = "A spring, abundantly flowing."
+TinZoodochonPigin.name = "A spring, abundantly flowing."
+TinZoodochonPigin.incipit = "A spring, abundantly flowing…"
+TinZoodochonPigin.melody = misc_en_US_houpos.Heirmos
 TinZoodochonPigin.mode = misc_en_US_houpos.Mode1
 TinZoodochonPigin.ode = misc_en_US_houpos.Ode9
 TinZoodochonPigin.text = ""
 
 ToFaeinonIminExanateilon.notmetered = "N/M (Let Your radiant.)"
-ToFaeinonIminExanateilon.incipit = "Let Your radiant."
+ToFaeinonIminExanateilon.name = "Let Your radiant."
+ToFaeinonIminExanateilon.incipit = "Let Your radiant…"
+ToFaeinonIminExanateilon.melody = misc_en_US_houpos.Heirmos
 ToFaeinonIminExanateilon.mode = misc_en_US_houpos.Mode1
 ToFaeinonIminExanateilon.ode = misc_en_US_houpos.Ode5
 ToFaeinonIminExanateilon.text = ""
 
 ToPantanaktos.notmetered = "N/M (As the three young men.)"
-ToPantanaktos.incipit = "As the three young men."
+ToPantanaktos.name = "As the three young men."
+ToPantanaktos.incipit = "As the three young men…"
+ToPantanaktos.melody = misc_en_US_houpos.Heirmos
 ToPantanaktos.mode = misc_en_US_houpos.Mode1
 ToPantanaktos.ode = misc_en_US_houpos.Ode7
 ToPantanaktos.text = ""
@@ -557,85 +737,113 @@ ToPantanaktos4.text = ""
 ToPantanaktos5.text = ""
 
 ToProTonAionon.notmetered = "N/M (To the Son.)"
-ToProTonAionon.incipit = "To the Son."
+ToProTonAionon.name = "To the Son."
+ToProTonAionon.incipit = "To the Son…"
+ToProTonAionon.melody = misc_en_US_houpos.Heirmos
 ToProTonAionon.mode = misc_en_US_houpos.Mode1
 ToProTonAionon.ode = misc_en_US_houpos.Ode3
 ToProTonAionon.text = ""
 
 ToTheionKaiArriton.notmetered = "N/M (O Christ, I shall tell.)"
-ToTheionKaiArriton.incipit = "O Christ, I shall tell."
+ToTheionKaiArriton.name = "O Christ, I shall tell."
+ToTheionKaiArriton.incipit = "O Christ, I shall tell…"
+ToTheionKaiArriton.melody = misc_en_US_houpos.Heirmos
 ToTheionKaiArriton.mode = misc_en_US_houpos.Mode1
 ToTheionKaiArriton.ode = misc_en_US_houpos.Ode5
 ToTheionKaiArriton.text = ""
 
 ToVoithisantiTheo.notmetered = "N/M ()"
-ToVoithisantiTheo.incipit = "(N/M)"
+ToVoithisantiTheo.name = "N/M ()"
+ToVoithisantiTheo.incipit = "(N/M)…"
+ToVoithisantiTheo.melody = misc_en_US_houpos.Heirmos
 ToVoithisantiTheo.mode = misc_en_US_houpos.Mode1
 ToVoithisantiTheo.ode = misc_en_US_houpos.Ode1
 ToVoithisantiTheo.text = ""
 
 TonEnFlogiPyros.notmetered = "N/M ()"
-TonEnFlogiPyros.incipit = ""
+TonEnFlogiPyros.name = ""
+TonEnFlogiPyros.incipit = "…"
+TonEnFlogiPyros.melody = misc_en_US_houpos.Heirmos
 TonEnFlogiPyros.mode = misc_en_US_houpos.Mode1
 TonEnFlogiPyros.ode = misc_en_US_houpos.Ode8
 TonEnFlogiPyros.text = ""
 
 TonEnSinaTinVaton.notmetered = "N/M ()"
-TonEnSinaTinVaton.incipit = ""
+TonEnSinaTinVaton.name = ""
+TonEnSinaTinVaton.incipit = "…"
+TonEnSinaTinVaton.melody = misc_en_US_houpos.Heirmos
 TonEnSinaTinVaton.mode = misc_en_US_houpos.Mode1
 TonEnSinaTinVaton.ode = misc_en_US_houpos.Ode8
 TonEnSinaTinVaton.text = ""
 
 TonEnSofiaTousOuranous.notmetered = "N/M ()"
-TonEnSofiaTousOuranous.incipit = ""
+TonEnSofiaTousOuranous.name = ""
+TonEnSofiaTousOuranous.incipit = "…"
+TonEnSofiaTousOuranous.melody = misc_en_US_houpos.Heirmos
 TonEnSofiaTousOuranous.mode = misc_en_US_houpos.Mode1
 TonEnSofiaTousOuranous.ode = misc_en_US_houpos.Ode8
 TonEnSofiaTousOuranous.text = ""
 
-TonProfitinDiesosas.notmetered = "N/M (As You saved Prophet Jonah.)"
-TonProfitinDiesosas.incipit = "As You saved Prophet Jonah."
+TonProfitinDiesosas.notmetered = "N/M (As You rescued the Prophet.)"
+TonProfitinDiesosas.name = "As You rescued the Prophet."
+TonProfitinDiesosas.incipit = "As You rescued the Prophet…"
+TonProfitinDiesosas.melody = misc_en_US_houpos.Heirmos
 TonProfitinDiesosas.mode = misc_en_US_houpos.Mode1
 TonProfitinDiesosas.ode = misc_en_US_houpos.Ode6
 TonProfitinDiesosas.text = ""
 
 TonProfitinIonan.notmetered = "N/M (Imitating the inspired Prophet.)"
-TonProfitinIonan.incipit = "Imitating the inspired Prophet."
+TonProfitinIonan.name = "Imitating the inspired Prophet."
+TonProfitinIonan.incipit = "Imitating the inspired Prophet…"
+TonProfitinIonan.melody = misc_en_US_houpos.Heirmos
 TonProfitinIonan.mode = misc_en_US_houpos.Mode1
 TonProfitinIonan.ode = misc_en_US_houpos.Ode6
 TonProfitinIonan.text = ""
 
 TonTousYmnologousEnKamino.notmetered = "N/M ()"
-TonTousYmnologousEnKamino.incipit = ""
+TonTousYmnologousEnKamino.name = ""
+TonTousYmnologousEnKamino.incipit = "…"
+TonTousYmnologousEnKamino.melody = misc_en_US_houpos.Heirmos
 TonTousYmnologousEnKamino.mode = misc_en_US_houpos.Mode1
 TonTousYmnologousEnKamino.ode = misc_en_US_houpos.Ode8
 TonTousYmnologousEnKamino.text = ""
 
 TonTyponTouTheiouStavrou.notmetered = "N/M (When Jonah was in.)"
-TonTyponTouTheiouStavrou.incipit = "When Jonah was in."
+TonTyponTouTheiouStavrou.name = "When Jonah was in."
+TonTyponTouTheiouStavrou.incipit = "When Jonah was in…"
+TonTyponTouTheiouStavrou.melody = misc_en_US_houpos.Heirmos
 TonTyponTouTheiouStavrou.mode = misc_en_US_houpos.Mode1
 TonTyponTouTheiouStavrou.ode = misc_en_US_houpos.Ode6
 TonTyponTouTheiouStavrou.text = ""
 
 TousEnKaminoPaidas.notmetered = "N/M ()"
-TousEnKaminoPaidas.incipit = "N/M"
+TousEnKaminoPaidas.name = "N/M ()"
+TousEnKaminoPaidas.incipit = "N/M…"
+TousEnKaminoPaidas.melody = misc_en_US_houpos.Heirmos
 TousEnKaminoPaidas.mode = misc_en_US_houpos.Mode1
 TousEnKaminoPaidas.ode = misc_en_US_houpos.Ode7
 TousEnKaminoPaidas.text = ""
 
 TyponTisAgnis.notmetered = "N/M (Burning, yet.)"
-TyponTisAgnis.incipit = "Burning, yet remaining."
+TyponTisAgnis.name = "Burning, yet remaining."
+TyponTisAgnis.incipit = "Burning, yet remaining…"
+TyponTisAgnis.melody = misc_en_US_houpos.Heirmos
 TyponTisAgnis.mode = misc_en_US_houpos.Mode1
 TyponTisAgnis.ode = misc_en_US_houpos.Ode9
 TyponTisAgnis.text = ""
 
 YmnonSoiProsferomen.notmetered = "N/M ()"
-YmnonSoiProsferomen.incipit = "N/M"
+YmnonSoiProsferomen.name = "N/M ()"
+YmnonSoiProsferomen.incipit = "N/M…"
+YmnonSoiProsferomen.melody = misc_en_US_houpos.Heirmos
 YmnonSoiProsferomen.mode = misc_en_US_houpos.Mode1
 YmnonSoiProsferomen.ode = misc_en_US_houpos.Ode8
 YmnonSoiProsferomen.text = ""
 
 YpilthonOsNymfona.notmetered = "N/M ()"
-YpilthonOsNymfona.incipit = ""
+YpilthonOsNymfona.name = ""
+YpilthonOsNymfona.incipit = "…"
+YpilthonOsNymfona.melody = misc_en_US_houpos.Heirmos
 YpilthonOsNymfona.mode = misc_en_US_houpos.Mode1
 YpilthonOsNymfona.ode = misc_en_US_houpos.Ode7
 YpilthonOsNymfona.text = ""

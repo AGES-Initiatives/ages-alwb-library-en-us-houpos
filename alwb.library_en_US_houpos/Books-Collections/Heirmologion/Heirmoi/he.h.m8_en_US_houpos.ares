@@ -16,9 +16,9 @@ AllotrionTonMiteron.mode = misc_en_US_houpos.Mode8
 AllotrionTonMiteron.ode = misc_en_US_houpos.Ode9
 AllotrionTonMiteron.text = ""
 
-AngeloiKaiOuranoi.notmetered = "N/M (All you angels.)"
-AngeloiKaiOuranoi.name = "All you angels."
-AngeloiKaiOuranoi.incipit = "All you angels…"
+AngeloiKaiOuranoi.notmetered = "N/M (Angels and you heavens.)"
+AngeloiKaiOuranoi.name = "Angels and you heavens."
+AngeloiKaiOuranoi.incipit = "Angels and you heavens…"
 AngeloiKaiOuranoi.melody = misc_en_US_houpos.Heirmos
 AngeloiKaiOuranoi.mode = misc_en_US_houpos.Mode8
 AngeloiKaiOuranoi.ode = misc_en_US_houpos.Ode8
@@ -488,9 +488,9 @@ OsTonProfitinErryso.mode = misc_en_US_houpos.Mode8
 OsTonProfitinErryso.ode = misc_en_US_houpos.Ode6
 OsTonProfitinErryso.text = ""
 
-OsYdataThalassis.notmetered = "N/M (The waves of life.)"
-OsYdataThalassis.name = "The waves of life."
-OsYdataThalassis.incipit = "The waves of life…"
+OsYdataThalassis.notmetered = "N/M (The troubles of my life.)"
+OsYdataThalassis.name = "The troubles of my life."
+OsYdataThalassis.incipit = "The troubles of my life…"
 OsYdataThalassis.melody = misc_en_US_houpos.Heirmos
 OsYdataThalassis.mode = misc_en_US_houpos.Mode8
 OsYdataThalassis.ode = misc_en_US_houpos.Ode6

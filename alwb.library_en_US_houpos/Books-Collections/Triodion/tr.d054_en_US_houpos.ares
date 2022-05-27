@@ -323,7 +323,9 @@ trGC.Ode1C123.melody = he.h.m6_en_US_houpos.VoithosKaiSkepastis.name
 trGC.Ode1C123.incipit = "…"
 trGC.Ode1C123.text = ""
 
-trGC.C2Acrostic.text = ""
+trGC.C2.acrostic.title = ""
+trGC.C2.acrostic.notice1 = ""
+trGC.C2.acrostic.text = ""
 
 trGC.Ode1C201.ode = misc_en_US_houpos.Ode1
 trGC.Ode1C201.mode = misc_en_US_houpos.Mode6

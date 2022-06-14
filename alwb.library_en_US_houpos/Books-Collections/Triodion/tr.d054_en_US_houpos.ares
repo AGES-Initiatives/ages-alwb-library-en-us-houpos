@@ -171,7 +171,7 @@ trGC.SticheraT.text = "You, God and Maker, have condescended * to become incarna
 
 //Matins
 trGC.title = ""
-trGC.C1Poet = //poets_en_US_houpos.AndreouKritis
+trGC.C1.poet = //poets_en_US_houpos.AndreouKritis
 trGC.Verse1 = //prayers_en_US_houpos.EleisonMeOTheos.text
 trGC.Verse2 = ""
 trGC.Verse3 = ""
@@ -867,7 +867,7 @@ trMA.Ode3Kathisma3.text = ""
 
 // Ode 4 Triodion
 
-trMA.C1Poet = //poets_en_US_houpos.Iosif
+trMA.C1.poet = //poets_en_US_houpos.Iosif
 
 trMA.Ode4C1H.ode = misc_en_US_houpos.Ode4
 trMA.Ode4C1H.mode = misc_en_US_houpos.Mode8

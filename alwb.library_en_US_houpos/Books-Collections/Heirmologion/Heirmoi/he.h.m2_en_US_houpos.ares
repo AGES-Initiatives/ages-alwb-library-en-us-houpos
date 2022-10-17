@@ -282,9 +282,7 @@ KaminosPote.incipit = "Heeding the divine decree…"
 KaminosPote.melody = misc_en_US_houpos.Heirmos
 KaminosPote.mode = misc_en_US_houpos.Mode2
 KaminosPote.ode = misc_en_US_houpos.Ode8
-KaminosPote.text = "Once by the divine command the fiery furnace * of old in Babylon divided its actions, for while it consumed * 
-
-the Chaldeans, it was showering with dew the faithful Servants who sang the hymn: * Bless the Lord, all you works of the Lord!"
+KaminosPote.text = "Once by the divine command the fiery furnace * of old in Babylon divided its actions, for while it consumed * the Chaldeans, it was showering with dew the faithful Servants who sang the hymn: * Bless the Lord, all you works of the Lord!"
 
 MesitisTheou.notmetered = "N/M ()"
 MesitisTheou.name = "N/M ()"

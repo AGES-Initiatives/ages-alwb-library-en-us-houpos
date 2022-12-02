@@ -9,12 +9,12 @@ hoCA.Insert1 = "the holy and glorious Great Martyr Panteleimon the Healer,"
 hoCA.media.incipit = "…"
 hoCA.media.text = "Complete Score" // for complete music
 
-hoCA.Apolytikion1.mode = misc_en_US_houpos.Mode4
+hoCA.Apolytikion1.mode = miscellanea_en_US_houpos.misc.Mode4
 hoCA.Apolytikion1.melody = he.a.m4_en_US_houpos.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = "…"
 hoCA.Apolytikion1.text = "Panteleïmon, son of faithful Euboula, * we praise in hymns and songs that laud his achievements; * the great Unmercenaries’ boast and Martyrs’ bright torch, * well that never shall run dry, * spring that streams forth the gifts of God, * greatest refuge for those with * incurable diseases: * O our Redeemer, grant that, at his prayers, * we be delivered * from every adversity."
 
-hoCA.Apolytikion2.mode = misc_en_US_houpos.Mode4
+hoCA.Apolytikion2.mode = miscellanea_en_US_houpos.misc.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_en_US_houpos.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "…"
 hoCA.Apolytikion2.text = "Since we are threatened by the Enemy’s plotting, * let us entreat the Theotokos by shouting: * \"Let your maternal love become a shelter for us; * chase away the Adversary’s ranks * of dread forces, O Blessed of God; * halt the passions’ swelling tide * and madness of the demons. Pure Lady, help us all, since you are both * Mother and Shelter, a holy defense for us.\""
@@ -22,246 +22,246 @@ hoCA.Apolytikion2.text = "Since we are threatened by the Enemy’s plotting, * l
 hoCA.acrostic = "which has the acrostic: [ENTREATY TO] THE WONDER-WORKING PANTELEIMON. [BY] NIKOD[EMOS.]"
 hoCA.verse = "Saint of God, intercede for us."
 
-hoCA.Ode11.ode = misc_en_US_houpos.Ode1
-hoCA.Ode11.mode = misc_en_US_houpos.Mode8
+hoCA.Ode11.ode = miscellanea_en_US_houpos.misc.Ode1
+hoCA.Ode11.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode11.melody = he.h.m8_en_US_houpos.YgranDiodefsas.name
 hoCA.Ode11.incipit = "…"
 hoCA.Ode11.text = "To Panteleïmon I chant this hymn: * \"The son of Euboula, Hermolaos’s acolyte, * defense of the Church and all Her faithful, * you bravely witnessed and gave up your life for Christ.\""
 
-hoCA.Ode12.ode = misc_en_US_houpos.Ode1
-hoCA.Ode12.mode = misc_en_US_houpos.Mode8
+hoCA.Ode12.ode = miscellanea_en_US_houpos.misc.Ode1
+hoCA.Ode12.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode12.melody = he.h.m8_en_US_houpos.YgranDiodefsas.name
 hoCA.Ode12.incipit = "…"
 hoCA.Ode12.text = "Here, Jesus, I stand and I beg of You: * send the awesome power of the Spirit to my own mind, * that with inspiration I might hymn the * Unmercenary’s sublime life and martyrdom."
 
-hoCA.Ode13.ode = misc_en_US_houpos.Ode1
-hoCA.Ode13.mode = misc_en_US_houpos.Mode8
+hoCA.Ode13.ode = miscellanea_en_US_houpos.misc.Ode1
+hoCA.Ode13.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode13.melody = he.h.m8_en_US_houpos.YgranDiodefsas.name
 hoCA.Ode13.incipit = "…"
 hoCA.Ode13.text = "Exalting your wondrous and awesome life, * O Panteleïmon, I entreat you to intercede * with the Word, that I might be successful * in mortifying the old man within my heart."
 
-hoCA.Ode1T.ode = misc_en_US_houpos.Ode1
-hoCA.Ode1T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode1T.ode = miscellanea_en_US_houpos.misc.Ode1
+hoCA.Ode1T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode1T.melody = he.h.m8_en_US_houpos.YgranDiodefsas.name
 hoCA.Ode1T.incipit = "…"
 hoCA.Ode1T.text = "Without seed you mothered the Father’s Word, * the Christ and the Savior, blessed God-wedded Mariam; * bring peace to the hearts, O Purest Maiden, * of them that worship your Son, O All-spotless one."
 
-hoCA.Ode31.ode = misc_en_US_houpos.Ode3
-hoCA.Ode31.mode = misc_en_US_houpos.Mode8
+hoCA.Ode31.ode = miscellanea_en_US_houpos.misc.Ode3
+hoCA.Ode31.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode31.melody = he.h.m8_en_US_houpos.OuraniasApsidos.name
 hoCA.Ode31.incipit = "…"
 hoCA.Ode31.text = "Overwhelmingly worthy, miraculous Saint of God: * Paradise became your new dwelling, * just as you hoped it might. * You fled from worldly cares, * you gave your life up for Jesus; * martyred Saint, help us who sing hymns to your memory."
 
-hoCA.Ode32.ode = misc_en_US_houpos.Ode3
-hoCA.Ode32.mode = misc_en_US_houpos.Mode8
+hoCA.Ode32.ode = miscellanea_en_US_houpos.misc.Ode3
+hoCA.Ode32.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode32.melody = he.h.m8_en_US_houpos.OuraniasApsidos.name
 hoCA.Ode32.incipit = "…"
 hoCA.Ode32.text = "Not accepting a payment, you famously freely gave, * O Panteleïmon, thrice-blessed, * that which was given you * by our most gracious God, * Whom, holy athlete, please, pray now * that He might bestow on us saving, abundant grace."
 
-hoCA.Ode33.ode = misc_en_US_houpos.Ode3
-hoCA.Ode33.mode = misc_en_US_houpos.Mode8
+hoCA.Ode33.ode = miscellanea_en_US_houpos.misc.Ode3
+hoCA.Ode33.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode33.melody = he.h.m8_en_US_houpos.OuraniasApsidos.name
 hoCA.Ode33.incipit = "…"
 hoCA.Ode33.text = "Darting straight for the heavens, O Pantoléon, you raced; * winning, now you enter the kingdom * of godly restfulness. * Thus, at your prayers to Christ, * save them that hymn and extol you * from demonic, vengeful attacks and anxieties."
 
-hoCA.Ode3T.ode = misc_en_US_houpos.Ode3
-hoCA.Ode3T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode3T.ode = miscellanea_en_US_houpos.misc.Ode3
+hoCA.Ode3T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode3T.melody = he.h.m8_en_US_houpos.OuraniasApsidos.name
 hoCA.Ode3T.incipit = "…"
 hoCA.Ode3T.text = "Ever humble, you gave birth to God’s own Word, holy one; * make unceasing pleas as a Mother * for us, your children now, * that we be helped and saved, * O Pure one, from all the scandals * of the world, as we all praise Our Lady’s majesty."
 
-hoCA.Troparion31.mode = misc_en_US_houpos.Mode8
+hoCA.Troparion31.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Troparion31.melody = ""
 hoCA.Troparion31.incipit = "…"
 hoCA.Troparion31.text = "Support our hearts, * which are exposed and embattled, Panteleïmon, * for, becoming a martyr, * you became an invincible * and sturdy protection for fellow athletes."
 
-hoCA.Troparion32.mode = misc_en_US_houpos.Mode8
+hoCA.Troparion32.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Troparion32.melody = ""
 hoCA.Troparion32.incipit = "…"
 hoCA.Troparion32.text = "Support us now, * as we the Orthodox praise you, O Theotokos, * in our faith in your Son, * and in our life which is difficult, * since you have the power of motherly boldness."
 
-hoCA.Kathisma11.mode = misc_en_US_houpos.Mode2
+hoCA.Kathisma11.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.Kathisma11.melody = he.a.m2_en_US_houpos.TaAnoZiton.name
 hoCA.Kathisma11.incipit = "…"
 hoCA.Kathisma11.text = "With grace from above, * the Spirit nurtured you to be * a wellspring of cures, * a fountainhead of miracles, * freely giving everything, * Pantoléon, pouring out gifts on all; * and so, in your prayers before Christ, * bring healing to all men, * from all dreadful diseases."
 
-hoCA.Ode41.ode = misc_en_US_houpos.Ode4
-hoCA.Ode41.mode = misc_en_US_houpos.Mode8
+hoCA.Ode41.ode = miscellanea_en_US_houpos.misc.Ode4
+hoCA.Ode41.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode41.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
 hoCA.Ode41.incipit = "…"
 hoCA.Ode41.text = "Rightly you have been shown to be, * O Panteleïmon, a worthy specimen * of the faithful ones that love the Lord, * demonstrating to the world that hate is vain."
 
-hoCA.Ode42.ode = misc_en_US_houpos.Ode4
-hoCA.Ode42.mode = misc_en_US_houpos.Mode8
+hoCA.Ode42.ode = miscellanea_en_US_houpos.misc.Ode4
+hoCA.Ode42.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode42.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
 hoCA.Ode42.incipit = "…"
 hoCA.Ode42.text = "We beseech you that we be saved, * O Panteleïmon. Please, drive away our pains, * and our circumstances filled with dread, * and the vengeful Devil’s snares and traps for us."
 
-hoCA.Ode43.ode = misc_en_US_houpos.Ode4
-hoCA.Ode43.mode = misc_en_US_houpos.Mode8
+hoCA.Ode43.ode = miscellanea_en_US_houpos.misc.Ode4
+hoCA.Ode43.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode43.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
 hoCA.Ode43.incipit = "…"
 hoCA.Ode43.text = "O example of godliness, * in your brave confession you manifested Christ, * standing fast with martyrs that endure * wrenching pains, O Martyr famed for victory."
 
-hoCA.Ode4T.ode = misc_en_US_houpos.Ode4
-hoCA.Ode4T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode4T.ode = miscellanea_en_US_houpos.misc.Ode4
+hoCA.Ode4T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode4T.melody = he.h.m8_en_US_houpos.EisakikoaKyrie.name
 hoCA.Ode4T.incipit = "…"
 hoCA.Ode4T.text = "Revelation of purity, * Lady shining brightest among created things * as the one who gave birth to the Lord, * Who redeemed our life out of the serpent’s fangs."
 
-hoCA.Ode51.ode = misc_en_US_houpos.Ode5
-hoCA.Ode51.mode = misc_en_US_houpos.Mode8
+hoCA.Ode51.ode = miscellanea_en_US_houpos.misc.Ode5
+hoCA.Ode51.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode51.melody = he.h.m8_en_US_houpos.FotisonImas.name
 hoCA.Ode51.incipit = "…"
 hoCA.Ode51.text = "Knowingly we praise * and we honor your great martyrdom, * and we seek, O Saint, your prayers before the Lord, * that holding fast to our great Faith in Him we might be saved."
 
-hoCA.Ode52.ode = misc_en_US_houpos.Ode5
-hoCA.Ode52.mode = misc_en_US_houpos.Mode8
+hoCA.Ode52.ode = miscellanea_en_US_houpos.misc.Ode5
+hoCA.Ode52.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode52.melody = he.h.m8_en_US_houpos.FotisonImas.name
 hoCA.Ode52.incipit = "…"
 hoCA.Ode52.text = "Issuing from God, * grace illumined you entirely; * Panteleïmon, you became a guide for all * unto the Trinity, that blinding Light, O valiant one."
 
-hoCA.Ode53.ode = misc_en_US_houpos.Ode5
-hoCA.Ode53.mode = misc_en_US_houpos.Mode8
+hoCA.Ode53.ode = miscellanea_en_US_houpos.misc.Ode5
+hoCA.Ode53.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode53.melody = he.h.m8_en_US_houpos.FotisonImas.name
 hoCA.Ode53.incipit = "…"
 hoCA.Ode53.text = "Notice and attend * now to us, who praise your martyrdom, * that, at your prayers before the living God, * our deeds might worthily give honor to the Name of Christ."
 
-hoCA.Ode5T.ode = misc_en_US_houpos.Ode5
-hoCA.Ode5T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode5T.ode = miscellanea_en_US_houpos.misc.Ode5
+hoCA.Ode5T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode5T.melody = he.h.m8_en_US_houpos.FotisonImas.name
 hoCA.Ode5T.incipit = "…"
 hoCA.Ode5T.text = "Graciously regard, * Theotokos, them that honor you, * when you present your intercessions to the Lord, * since you are mother to Christ God, All-Pure and Spotless one."
 
-hoCA.Ode61.ode = misc_en_US_houpos.Ode6
-hoCA.Ode61.mode = misc_en_US_houpos.Mode8
+hoCA.Ode61.ode = miscellanea_en_US_houpos.misc.Ode6
+hoCA.Ode61.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode61.melody = he.h.m8_en_US_houpos.TinDeisinEkcheo.name
 hoCA.Ode61.incipit = "…"
 hoCA.Ode61.text = "Physician, * please heal the eyes of my poor soul, * like the blind man that you cured, O blessed Martyr, * and grant my heart its enlightenment quickly, * at your entreaties to Christ, Who is God and Man, * that I might surely ascertain * that the path it is taking leads to the Lord."
 
-hoCA.Ode62.ode = misc_en_US_houpos.Ode6
-hoCA.Ode62.mode = misc_en_US_houpos.Mode8
+hoCA.Ode62.ode = miscellanea_en_US_houpos.misc.Ode6
+hoCA.Ode62.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode62.melody = he.h.m8_en_US_houpos.TinDeisinEkcheo.name
 hoCA.Ode62.incipit = "…"
 hoCA.Ode62.text = "All-merciful * Panteleïmon, Saint of Christ, * brave God-bearing martyr and unmercenary: * entreat the Word that the faithful who praise you * be granted sure, swift deliverance from the threat * of grievous spiritual falls, or of terrible bodily suffering."
 
-hoCA.Ode63.ode = misc_en_US_houpos.Ode6
-hoCA.Ode63.mode = misc_en_US_houpos.Mode8
+hoCA.Ode63.ode = miscellanea_en_US_houpos.misc.Ode6
+hoCA.Ode63.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode63.melody = he.h.m8_en_US_houpos.TinDeisinEkcheo.name
 hoCA.Ode63.incipit = "…"
 hoCA.Ode63.text = "Now Satan * is weaving nets to snare my soul * in his darkness, O thrice-blessed, glorified one. * Yet, being stirred to courageous conviction * by your defense and protection and grace for me, * I race with swiftness now to Christ, * Who defeated the dragon of the abyss."
 
-hoCA.Ode6T.ode = misc_en_US_houpos.Ode6
-hoCA.Ode6T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode6T.ode = miscellanea_en_US_houpos.misc.Ode6
+hoCA.Ode6T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode6T.melody = he.h.m8_en_US_houpos.TinDeisinEkcheo.name
 hoCA.Ode6T.incipit = "…"
 hoCA.Ode6T.text = "The Church knows * you are the Mother of our Christ, * and the only source of gladness for the whole world. * For in you lies our salvation’s beginning, * and the most cherished reward of eternal life; * at your entreaties to your Son, * He grants union with God to humanity."
 
-hoCA.Troparion61.mode = misc_en_US_houpos.Mode8
+hoCA.Troparion61.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Troparion61.melody = ""
 hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
-hoCA.Troparion62.mode = misc_en_US_houpos.Mode8
+hoCA.Troparion62.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Troparion62.melody = ""
 hoCA.Troparion62.incipit = hoCA.Troparion32.incipit
 hoCA.Troparion62.text = hoCA.Troparion32.text
 
-hoCA.Kontakion.mode = misc_en_US_houpos.Mode2
+hoCA.Kontakion.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.Kontakion.melody = "O Protection."
 hoCA.Kontakion.incipit = "…"
 hoCA.Kontakion.text = "On account of your struggle and martyrdom for the Lord, * you were given grace to help and heal and cure the sick, * thus becoming a source of miracles beyond all speech. * And, so, fortify us as we face a host of terrible assaults * and assorted grave maladies. * Guard us from every danger, * and drive off those who would fight us; * and grant our body and our spirit the healing that they both require."
 
-hoCA.PostGospelGlory.mode = misc_en_US_houpos.Mode2
+hoCA.PostGospelGlory.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.PostGospelGlory.melody = ""
 hoCA.PostGospelGlory.incipit = "…"
 hoCA.PostGospelGlory.text = "At the intercession of the holy Martyr, O Lord of mercy, blot out my many offences."
 
-hoCA.PostGospelBoth.mode = misc_en_US_houpos.Mode2
+hoCA.PostGospelBoth.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.incipit = "…"
 hoCA.PostGospelBoth.text = "At the intercession of the Theotokos, O Lord of mercy, blot out my many offences."
 
-hoCA.PostGospelHymn1.mode = misc_en_US_houpos.Mode6
+hoCA.PostGospelHymn1.mode = miscellanea_en_US_houpos.misc.Mode6
 hoCA.PostGospelHymn1.melody = he.a.m6_en_US_houpos.OlinApothemenoi.name
 hoCA.PostGospelHymn1.incipit = "…"
 hoCA.PostGospelHymn1.text = "To Panteleïmon, the Unmercenaries’ great glory, * that Christ-bearing martyr saint, * we bestow our lofty praise like a floral crown. * He contested here on Earth * only for the Lord’s sake, * and accepted torments joyfully, * and waited patiently * for the Holy Spirit’s own witnessing. * His body being thus well-lit, * the Judge of the contest rewarded him. * Thus, at his bold entreaty, * Christ, Savior, make us worthy to go forth * to all the world and all its nations, * confessing Your Holy Name."
 
-hoCA.Ode71.ode = misc_en_US_houpos.Ode7
-hoCA.Ode71.mode = misc_en_US_houpos.Mode8
+hoCA.Ode71.ode = miscellanea_en_US_houpos.misc.Ode7
+hoCA.Ode71.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode71.melody = he.h.m8_en_US_houpos.OiEkTisIoudaias.name
 hoCA.Ode71.incipit = "…"
 hoCA.Ode71.text = "Entertain the petitions * Pantoléon the martyr brings to You now, O Christ, * and grant them to the faithful, * who, chanting with that athlete, * glorify You as Lord and say: * \"Blessed are You, O God, * the God of our Fathers!\""
 
-hoCA.Ode72.ode = misc_en_US_houpos.Ode7
-hoCA.Ode72.mode = misc_en_US_houpos.Mode8
+hoCA.Ode72.ode = miscellanea_en_US_houpos.misc.Ode7
+hoCA.Ode72.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode72.melody = he.h.m8_en_US_houpos.OiEkTisIoudaias.name
 hoCA.Ode72.incipit = "…"
 hoCA.Ode72.text = "Leading us, the great Martyr, * magnifying the truth of the Holy Trinity, * while facing fearsome tortures * and godless rhetoricians, * lauds the Kingdom of Christ in song: * \"Blessed are You, O God, * the God of our Fathers!\""
 
-hoCA.Ode73.ode = misc_en_US_houpos.Ode7
-hoCA.Ode73.mode = misc_en_US_houpos.Mode8
+hoCA.Ode73.ode = miscellanea_en_US_houpos.misc.Ode7
+hoCA.Ode73.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode73.melody = he.h.m8_en_US_houpos.OiEkTisIoudaias.name
 hoCA.Ode73.incipit = "…"
 hoCA.Ode73.text = "Ever worthy of crowning * and the comforts of heaven, the Martyr of the Lord * appeals unto the Logos * for them that raise their voices * in the Spirit most earnestly: * \"Blessed are You, O God, * the God of our Fathers!\""
 
-hoCA.Ode7T.ode = misc_en_US_houpos.Ode7
-hoCA.Ode7T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode7T.ode = miscellanea_en_US_houpos.misc.Ode7
+hoCA.Ode7T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode7T.melody = he.h.m8_en_US_houpos.OiEkTisIoudaias.name
 hoCA.Ode7T.incipit = "…"
 hoCA.Ode7T.text = "In admiring the Virgin * and her marvelous wonders, we glorify her Son, * Whose birth surpasses logic, * incarnate of the Spirit, * Whom we honor in canticles: * \"Blessed are You, O God, * the God of our Fathers!\""
 
-hoCA.Ode81.ode = misc_en_US_houpos.Ode8
-hoCA.Ode81.mode = misc_en_US_houpos.Mode8
+hoCA.Ode81.ode = miscellanea_en_US_houpos.misc.Ode8
+hoCA.Ode81.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode81.melody = he.h.m8_en_US_houpos.TonVasileaTonOuranon.name
 hoCA.Ode81.incipit = "…"
 hoCA.Ode81.text = "Meeting your contests * with strength of heart, O God-bearer, * bringing down the deceptions of the idols, * you entice our hearts to sing with hymns unto the God-Man."
 
-hoCA.Ode82.ode = misc_en_US_houpos.Ode8
-hoCA.Ode82.mode = misc_en_US_houpos.Mode8
+hoCA.Ode82.ode = miscellanea_en_US_houpos.misc.Ode8
+hoCA.Ode82.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode82.melody = he.h.m8_en_US_houpos.TonVasileaTonOuranon.name
 hoCA.Ode82.incipit = "…"
 hoCA.Ode82.text = "Of wakeful intellect, * and in an orthodox manner, * we seek out the grace of the holy Martyr, * with which, through our lives, we shall exceedingly exalt Christ."
 
-hoCA.Ode83.ode = misc_en_US_houpos.Ode8
-hoCA.Ode83.mode = misc_en_US_houpos.Mode8
+hoCA.Ode83.ode = miscellanea_en_US_houpos.misc.Ode8
+hoCA.Ode83.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode83.melody = he.h.m8_en_US_houpos.TonVasileaTonOuranon.name
 hoCA.Ode83.incipit = "…"
 hoCA.Ode83.text = "Now, Martyr of Christ, * being the chief of the martyrs, * teach us mortals by means of imitation * how to rightly worship our Christ unto the ages."
 
-hoCA.Ode8T.ode = misc_en_US_houpos.Ode8
-hoCA.Ode8T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode8T.ode = miscellanea_en_US_houpos.misc.Ode8
+hoCA.Ode8T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode8T.melody = he.h.m8_en_US_houpos.TonVasileaTonOuranon.name
 hoCA.Ode8T.incipit = "…"
 hoCA.Ode8T.text = "Never cease praying, * O Temple of the Divine Word, * always in our behalf before the Logos, * Whom the choirs of Angels praise in song unto the ages."
 
-hoCA.Ode91.ode = misc_en_US_houpos.Ode9
-hoCA.Ode91.mode = misc_en_US_houpos.Mode8
+hoCA.Ode91.ode = miscellanea_en_US_houpos.misc.Ode9
+hoCA.Ode91.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode91.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
 hoCA.Ode91.incipit = "…"
 hoCA.Ode91.text = "Invigorated fully * by the Holy Spirit, * Panteleïmon proclaimed Christ courageously. * Thus, he was crowned in that glory and now is magnified."
 
-hoCA.Ode92.ode = misc_en_US_houpos.Ode9
-hoCA.Ode92.mode = misc_en_US_houpos.Mode8
+hoCA.Ode92.ode = miscellanea_en_US_houpos.misc.Ode9
+hoCA.Ode92.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode92.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
 hoCA.Ode92.incipit = "…"
 hoCA.Ode92.text = "Keen preaching of the Logos * by Panteleïmon * debased his own father’s godlessness brilliantly; * my Christ, at his intercessions, save me from such a state."
 
-hoCA.Ode93.ode = misc_en_US_houpos.Ode9
-hoCA.Ode93.mode = misc_en_US_houpos.Mode8
+hoCA.Ode93.ode = miscellanea_en_US_houpos.misc.Ode9
+hoCA.Ode93.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode93.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
 hoCA.Ode93.incipit = "…"
 hoCA.Ode93.text = "O Prize-winner, beholding * your pure and divine soul, * ablaze in Sion with God’s Uncreated Light, * we therefore seek your assistance, great Martyr of the Lord."
 
-hoCA.Ode9T.ode = misc_en_US_houpos.Ode9
-hoCA.Ode9T.mode = misc_en_US_houpos.Mode8
+hoCA.Ode9T.ode = miscellanea_en_US_houpos.misc.Ode9
+hoCA.Ode9T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode9T.melody = he.h.m8_en_US_houpos.KyriosTheotokon.name
 hoCA.Ode9T.incipit = "…"
 hoCA.Ode9T.text = "Devoutly, we give worship * with Panteleïmon * unto your Son, purest Virgin, for Whom he died; * O Mother of the Creator, we supplicate you now."
 
 hoCA.Meg00.incipit = "…"
 hoCA.Meg00.text = "It is truly right to call you blest, O Theotokos, the ever-blessed and all-blameless one and the Mother of our God."
-hoCA.Meg01.melody = misc_en_US_houpos.Heirmos
+hoCA.Meg01.melody = miscellanea_en_US_houpos.misc.Heirmos
 hoCA.Meg01.incipit = "…"
 hoCA.Meg01.text = "Greater in honor than the Cherubim, and in glory greater beyond compare than the Seraphim; you without corruption gave birth to God the Word, and are truly Theotokos. You do we magnify."
 hoCA.Meg02.melody = he.h.m6_en_US_houpos.TinTimioteran.name
@@ -283,27 +283,27 @@ hoCA.Meg0F.melody = he.h.m6_en_US_houpos.TinTimioteran.name
 hoCA.Meg0F.incipit = "…"
 hoCA.Meg0F.text = "Join the Theotokos, all you arrays * of angelic powers, honored Forerunner of the Lord, * holy Twelve Apostles * and all the Saints together, * and pray for our salvation, and intercede for us."
 
-hoCA.Apolytikion3.mode = misc_en_US_houpos.Mode3
+hoCA.Apolytikion3.mode = miscellanea_en_US_houpos.misc.Mode3
 hoCA.Apolytikion3.melody = ""
 hoCA.Apolytikion3.incipit = "…"
 hoCA.Apolytikion3.text = "Holy Prize-winner and healer, Panteleïmon, * pray for us before the merciful God, * that He grant our souls forgiveness of offenses."
 
-hoCA.Apolytikion4.mode = misc_en_US_houpos.Mode5
+hoCA.Apolytikion4.mode = miscellanea_en_US_houpos.misc.Mode5
 hoCA.Apolytikion4.melody = he.a.m5_en_US_houpos.TonSynanarchonLogon.name
 hoCA.Apolytikion4.incipit = "…"
 hoCA.Apolytikion4.text = "Godly Panteleïmon is worthy of our praise, * that noble martyr in Christ’s name, * and surest model of faith * for all those who join in contest, * thus let us sing him songs, * for he adored the Savior, Christ, * and he gladly joined the fight * by witnessing and by working, * and so he became a great wellspring * of healing miracles for all of the Church."
 
-hoCA.Troparion1.mode = misc_en_US_houpos.Mode2
+hoCA.Troparion1.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.Troparion1.melody = he.a.m2_en_US_houpos.OteEkTouXylou.name
 hoCA.Troparion1.incipit = "…"
 hoCA.Troparion1.text = "Come, let us all praise that brimming source * of great wonders, and that pure fountain * of healing miracles, * yes, Panteleïmon, model of the martyrs’ form, * that physician who would not charge, * in striking resemblance * to our Savior, Christ Himself, * the faithful’s prototype. * Come, all you with many diseases: * let us bow in faith and in reverence * while receiving healing and deliverance."
 
-hoCA.Troparion2.mode = misc_en_US_houpos.Mode2
+hoCA.Troparion2.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.Troparion2.melody = ""
 hoCA.Troparion2.incipit = "…"
 hoCA.Troparion2.text = "Lady, receive the supplications of your servants, and rescue us from all necessity and affliction."
 
-hoCA.Troparion3.mode = misc_en_US_houpos.Mode2
+hoCA.Troparion3.mode = miscellanea_en_US_houpos.misc.Mode2
 hoCA.Troparion3.melody = ""
 hoCA.Troparion3.incipit = "…"
 hoCA.Troparion3.text = "O Mother of God, I have committed my every hope wholly unto you. Keep me under your shelter."

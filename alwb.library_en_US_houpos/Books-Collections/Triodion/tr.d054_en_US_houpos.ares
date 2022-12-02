@@ -173,10 +173,10 @@ trGC.SticheraT.text = "You, God and Maker, have condescended * to become incarna
 //Matins
 trGC.title = ""
 trGC.C1.poet = //poets_en_US_houpos.AndreouKritis
-trGC.Verse1 = //prayers_en_US_houpos.EleisonMeOTheos.text
+trGC.Verse1 = //prayers_en_US_houpos.pr.verse_Mercy.text
 trGC.Verse2 = ""
 trGC.Verse3 = ""
-trGC.Verse4 = //prayers_en_US_houpos.verse_Theotokos.text
+trGC.Verse4 = //prayers_en_US_houpos.pr.verse_Theotokos.text
 
 //Ode 1
 

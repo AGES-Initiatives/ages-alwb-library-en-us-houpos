@@ -17,7 +17,7 @@ hoCA.Apolytikion1.text = "Panteleïmon, son of faithful Euboula, * we praise in 
 hoCA.Apolytikion2.mode = miscellanea_en_US_houpos.misc.Mode4
 hoCA.Apolytikion2.melody = he.a.m4_en_US_houpos.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion2.incipit = "…"
-hoCA.Apolytikion2.text = "Since we are threatened by the Enemy’s plotting, * let us entreat the Theotokos by shouting: * \"Let your maternal love become a shelter for us; * chase away the Adversary’s ranks * of dread forces, O Blessed of God; * halt the passions’ swelling tide * and madness of the demons. Pure Lady, help us all, since you are both * Mother and Shelter, a holy defense for us.\""
+hoCA.Apolytikion2.text = "Since we are threatened by the Enemy’s plotting, * let us entreat the Theotokos by shouting: * “Let your maternal love become a shelter for us; * chase away the Adversary’s ranks * of dread forces, O Blessed of God; * halt the passions’ swelling tide * and madness of the demons. Pure Lady, help us all, since you are both * Mother and Shelter, a holy defense for us.”"
 
 hoCA.acrostic = "which has the acrostic: [ENTREATY TO] THE WONDER-WORKING PANTELEIMON. [BY] NIKOD[EMOS.]"
 hoCA.verse = "Saint of God, intercede for us."
@@ -26,7 +26,7 @@ hoCA.Ode11.ode = miscellanea_en_US_houpos.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode11.melody = he.h.m8_en_US_houpos.heHE.YgranDiodefsas.name
 hoCA.Ode11.incipit = "…"
-hoCA.Ode11.text = "To Panteleïmon I chant this hymn: * \"The son of Euboula, Hermolaos’s acolyte, * defense of the Church and all Her faithful, * you bravely witnessed and gave up your life for Christ.\""
+hoCA.Ode11.text = "To Panteleïmon I chant this hymn: * “The son of Euboula, Hermolaos’s acolyte, * defense of the Church and all Her faithful, * you bravely witnessed and gave up your life for Christ.”"
 
 hoCA.Ode12.ode = miscellanea_en_US_houpos.misc.Ode1
 hoCA.Ode12.mode = miscellanea_en_US_houpos.misc.Mode8
@@ -191,25 +191,25 @@ hoCA.Ode71.ode = miscellanea_en_US_houpos.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode71.melody = he.h.m8_en_US_houpos.heHE.OiEkTisIoudaias.name
 hoCA.Ode71.incipit = "…"
-hoCA.Ode71.text = "Entertain the petitions * Pantoléon the martyr brings to You now, O Christ, * and grant them to the faithful, * who, chanting with that athlete, * glorify You as Lord and say: * \"Blessed are You, O God, * the God of our Fathers!\""
+hoCA.Ode71.text = "Entertain the petitions * Pantoléon the martyr brings to You now, O Christ, * and grant them to the faithful, * who, chanting with that athlete, * glorify You as Lord and say: * “Blessed are You, O God, * the God of our Fathers!”"
 
 hoCA.Ode72.ode = miscellanea_en_US_houpos.misc.Ode7
 hoCA.Ode72.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode72.melody = he.h.m8_en_US_houpos.heHE.OiEkTisIoudaias.name
 hoCA.Ode72.incipit = "…"
-hoCA.Ode72.text = "Leading us, the great Martyr, * magnifying the truth of the Holy Trinity, * while facing fearsome tortures * and godless rhetoricians, * lauds the Kingdom of Christ in song: * \"Blessed are You, O God, * the God of our Fathers!\""
+hoCA.Ode72.text = "Leading us, the great Martyr, * magnifying the truth of the Holy Trinity, * while facing fearsome tortures * and godless rhetoricians, * lauds the Kingdom of Christ in song: * “Blessed are You, O God, * the God of our Fathers!”"
 
 hoCA.Ode73.ode = miscellanea_en_US_houpos.misc.Ode7
 hoCA.Ode73.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode73.melody = he.h.m8_en_US_houpos.heHE.OiEkTisIoudaias.name
 hoCA.Ode73.incipit = "…"
-hoCA.Ode73.text = "Ever worthy of crowning * and the comforts of heaven, the Martyr of the Lord * appeals unto the Logos * for them that raise their voices * in the Spirit most earnestly: * \"Blessed are You, O God, * the God of our Fathers!\""
+hoCA.Ode73.text = "Ever worthy of crowning * and the comforts of heaven, the Martyr of the Lord * appeals unto the Logos * for them that raise their voices * in the Spirit most earnestly: * “Blessed are You, O God, * the God of our Fathers!”"
 
 hoCA.Ode7T.ode = miscellanea_en_US_houpos.misc.Ode7
 hoCA.Ode7T.mode = miscellanea_en_US_houpos.misc.Mode8
 hoCA.Ode7T.melody = he.h.m8_en_US_houpos.heHE.OiEkTisIoudaias.name
 hoCA.Ode7T.incipit = "…"
-hoCA.Ode7T.text = "In admiring the Virgin * and her marvelous wonders, we glorify her Son, * Whose birth surpasses logic, * incarnate of the Spirit, * Whom we honor in canticles: * \"Blessed are You, O God, * the God of our Fathers!\""
+hoCA.Ode7T.text = "In admiring the Virgin * and her marvelous wonders, we glorify her Son, * Whose birth surpasses logic, * incarnate of the Spirit, * Whom we honor in canticles: * “Blessed are You, O God, * the God of our Fathers!”"
 
 hoCA.Ode81.ode = miscellanea_en_US_houpos.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_US_houpos.misc.Mode8

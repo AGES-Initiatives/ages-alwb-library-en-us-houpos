@@ -124,7 +124,7 @@ heHE.EisakikoaKyrie.incipit = "I have heard the report…"
 heHE.EisakikoaKyrie.melody = miscellanea_en_US_houpos.misc.Heirmos
 heHE.EisakikoaKyrie.mode = miscellanea_en_US_houpos.misc.Mode8
 heHE.EisakikoaKyrie.ode = miscellanea_en_US_houpos.misc.Ode4
-heHE.EisakikoaKyrie.text = "" //I have heard the report, O Lord, * of Your dispensation's amazing mystery. * I considered well Your mighty works; * wherefore Your divinity I glorified.
+heHE.EisakikoaKyrie.text = "" //I have heard the report, O Lord, * of Your dispensation’s amazing mystery. * I considered well Your mighty works; * wherefore Your divinity I glorified.
 
 heHE.EisakikoaKyrieTinAkoinSou.notmetered = "N/M ()"
 heHE.EisakikoaKyrieTinAkoinSou.greekname = ""
@@ -146,12 +146,12 @@ heHE.EkSarkosSouVolides.text = ""
 
 heHE.EknoonProstagma.notmetered = "N/M (The impious.)"
 heHE.EknoonProstagma.greekname = ""
-heHE.EknoonProstagma.name = "The impious tyrant's."
-heHE.EknoonProstagma.incipit = "The impious tyrant's…"
+heHE.EknoonProstagma.name = "The impious tyrant’s."
+heHE.EknoonProstagma.incipit = "The impious tyrant’s…"
 heHE.EknoonProstagma.melody = miscellanea_en_US_houpos.misc.Heirmos
 heHE.EknoonProstagma.mode = miscellanea_en_US_houpos.misc.Mode8
 heHE.EknoonProstagma.ode = miscellanea_en_US_houpos.misc.Ode7
-heHE.EknoonProstagma.text = "" //The impious tyrant's preposterous decree disturbed the populace, * breathing threats and blasphemous pronouncements hateful to God. * Yet the three Youths did not become frightened by the bestial anger or the roaring fire. * But with the dew-emitting wind whistling in opposition to the fire they sang: * O supremely praised You are blessed, O our God and the God of our fathers.
+heHE.EknoonProstagma.text = "" //The impious tyrant’s preposterous decree disturbed the populace, * breathing threats and blasphemous pronouncements hateful to God. * Yet the three Youths did not become frightened by the bestial anger or the roaring fire. * But with the dew-emitting wind whistling in opposition to the fire they sang: * O supremely praised You are blessed, O our God and the God of our fathers.
 
 heHE.EnPedioDeeira.notmetered = "N/M ()"
 heHE.EnPedioDeeira.greekname = ""
@@ -396,14 +396,14 @@ heHE.ODiAngelouPaidas.mode = miscellanea_en_US_houpos.misc.Mode8
 heHE.ODiAngelouPaidas.ode = miscellanea_en_US_houpos.misc.Ode7
 heHE.ODiAngelouPaidas.text = ""
 
-heHE.ODiaVroseos.notmetered = "N/M (Eating the tree's.)"
+heHE.ODiaVroseos.notmetered = "N/M (Eating the tree’s.)"
 heHE.ODiaVroseos.greekname = ""
-heHE.ODiaVroseos.name = "Eating the tree's."
-heHE.ODiaVroseos.incipit = "Eating the tree's…"
+heHE.ODiaVroseos.name = "Eating the tree’s."
+heHE.ODiaVroseos.incipit = "Eating the tree’s…"
 heHE.ODiaVroseos.melody = miscellanea_en_US_houpos.misc.Heirmos
 heHE.ODiaVroseos.mode = miscellanea_en_US_houpos.misc.Mode8
 heHE.ODiaVroseos.ode = miscellanea_en_US_houpos.misc.Ode9
-heHE.ODiaVroseos.text = "" //Unto the human race did death come through eating from the tree then in Paradise. * But through the Cross, today it is neutralized. * The primal mother's curse affecting the entire race has been dissolved * by the Offspring of the pure Mother of God. * And her do all the powers of the heavens ever magnify.
+heHE.ODiaVroseos.text = "" //Unto the human race did death come through eating from the tree then in Paradise. * But through the Cross, today it is neutralized. * The primal mother’s curse affecting the entire race has been dissolved * by the Offspring of the pure Mother of God. * And her do all the powers of the heavens ever magnify.
 
 heHE.OEkNyktosAgnoias.notmetered = "N/M (You lit the world.)"
 heHE.OEkNyktosAgnoias.greekname = ""
@@ -650,7 +650,7 @@ heHE.StavronCharaxasMosis.incipit = "Moses prefigured…"
 heHE.StavronCharaxasMosis.melody = miscellanea_en_US_houpos.misc.Heirmos
 heHE.StavronCharaxasMosis.mode = miscellanea_en_US_houpos.misc.Mode8
 heHE.StavronCharaxasMosis.ode = miscellanea_en_US_houpos.misc.Ode1
-heHE.StavronCharaxasMosis.text = "" //When Moses inscribed a cross * with his rod extended, * he split the Red Sea for the host * of Israel that went on foot. * Then crosswise he once again * struck it and united it on Pharaoh's chariots, * portraying on its surface the invincible weapon. * Therefore to Christ our God * let us all sing, for He has been glorified.
+heHE.StavronCharaxasMosis.text = "" //When Moses inscribed a cross * with his rod extended, * he split the Red Sea for the host * of Israel that went on foot. * Then crosswise he once again * struck it and united it on Pharaoh’s chariots, * portraying on its surface the invincible weapon. * Therefore to Christ our God * let us all sing, for He has been glorified.
 
 heHE.StereomaMouSotir.notmetered = "N/M ()"
 heHE.StereomaMouSotir.greekname = ""

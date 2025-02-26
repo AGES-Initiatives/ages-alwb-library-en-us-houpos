@@ -17,4 +17,5 @@ contact.phone = ""
 contact.email = "fr.andreas.houpos@gmail.com"
 
 deprecated.key = "This key is no longer used."
+empty.key = ""
 media.key = "For media only."
